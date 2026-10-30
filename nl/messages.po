@@ -2273,7 +2273,7 @@ msgstr "<0/> valt je land aan in <1/>"
 #: src/components/_economy/employee/TrainingDraftModal.tsx:253
 #: src/components/_economy/employee/TrainingHistory.tsx:133
 msgid "<0/> is gone"
-msgstr ""
+msgstr "<0/> is weg"
 
 #: src/components/_political/event/event.frontConfig.tsx:304
 msgid "<0/> is in bankruptcy. Removing all alliances and disabling every region upgrades."
@@ -2281,7 +2281,7 @@ msgstr "<0/> is failliet. Alle allianties worden verbroken en alle regio-upgrade
 
 #: src/components/_user/notification/notification.frontConfig.tsx:444
 msgid "<0/> is now the manager of <1/>"
-msgstr ""
+msgstr "<0/> is nu de manager van <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:161
 msgid "<0/> is revolting in <1/>"
@@ -2312,7 +2312,7 @@ msgstr "<0/> heeft <1/> uit het gesprek verwijderd"
 #: src/components/_economy/employee/employeeStats.tsx:750
 #: src/components/_economy/employee/employeeStats.tsx:843
 msgid "<0/> left"
-msgstr ""
+msgstr "<0/> over"
 
 #. placeholder {0}: data.company && <CompanyNameById companyId={data.company} />
 #: src/components/_user/notification/notification.frontConfig.tsx:609
@@ -2651,30 +2651,30 @@ msgstr "<0>{0}</0> op grondstoffen"
 #. placeholder {1}: 6
 #: src/components/_economy/employee/employee.frontConfig.tsx:675
 msgid "<0>{0}</0> per 10 years past 40, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> per 10 jaar na de leeftijd van 40, tot maximaal <1>{1}</1>"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -6
 #: src/components/_economy/employee/employee.frontConfig.tsx:692
 msgid "<0>{0}</0> per 10 years past 50, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> per 10 jaar na de leeftijd van 50, tot maximaal <1>{1}</1>"
 
 #. placeholder {0}: -5
 #. placeholder {1}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:418
 msgid "<0>{0}</0> per better-paid coworker, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> per beterbetaalde medewerker, tot maximaal <1>{1}</1>"
 
 #. placeholder {0}: 2
 #. placeholder {1}: 4
 #: src/components/_economy/employee/employee.frontConfig.tsx:268
 msgid "<0>{0}</0> per foreign nationality among coworkers, up to <1>{1}</1>"
-msgstr ""
+msgstr "<0>{0}</0> per buitenlandse nationaliteit onder medewerkers, tot maximaal <1>{1}</1>"
 
 #. placeholder {0}: 1
 #: src/components/_user/user/UserSkills.tsx:217
 msgid "<0>{0}</0> prestige point to spend on a skill."
-msgstr ""
+msgstr "<0>{0}</0> prestige-punt om aan een vaardigheid te besteden."
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1817
@@ -2695,54 +2695,54 @@ msgstr "<0>{0}</0> Opslagcapaciteit"
 #: src/components/_economy/employee/employee.frontConfig.tsx:897
 #: src/components/_economy/employee/employee.frontConfig.tsx:911
 msgid "<0>{0}</0> to every coworker"
-msgstr ""
+msgstr <0>{0}</0> aan elke medewerker""
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:334
 msgid "<0>{0}</0> to every weaker coworker"
-msgstr ""
+msgstr "<0>{0}</0> aan elke zwakkere medewerker"
 
 #. placeholder {0}: levelsConfig[level + 1].xp - myXp
 #. placeholder {1}: level + 1
 #: src/components/_user/level/LevelTrack.tsx:214
 msgid "<0>{0}</0> to level {1}"
-msgstr ""
+msgstr "<0>{0}</0> tot level {1}"
 
 #. placeholder {0}: 6
 #. placeholder {1}: -2
 #: src/components/_economy/employee/employee.frontConfig.tsx:659
 msgid "<0>{0}</0> until 40, then <1>{1}</1> per 10 years, down to none at 60"
-msgstr ""
+msgstr "<0>{0}</0> tot 40 jaar, daarna <1>{1}</1> per 10 jaar, tot nul op 60-jarige leeftijd"
 
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:388
 msgid "<0>{0}</0> when they are not"
-msgstr ""
+msgstr "<0>{0}</0> wanneer ze dat niet zijn"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:737
 msgid "<0>{0}</0> when working abroad"
-msgstr ""
+msgstr "<0>{0}</0> bij het werken in het buitenland"
 
 #. placeholder {0}: -10
 #: src/components/_economy/employee/employee.frontConfig.tsx:305
 msgid "<0>{0}</0> when working alone"
-msgstr ""
+msgstr "<0>{0}</0> bij het alleen werken"
 
 #. placeholder {0}: -1
 #: src/components/_economy/employee/employee.frontConfig.tsx:372
 msgid "<0>{0}</0> while nobody out-produces them"
-msgstr ""
+msgstr "<0>{0}</0> terwijl niemand meer produceert dan zij"
 
 #. placeholder {0}: 3
 #: src/components/_economy/employee/employee.frontConfig.tsx:366
 msgid "<0>{0}</0> while somebody out-produces them"
-msgstr ""
+msgstr "<0>{0}</0> terwijl iemand anders meer produceert dan zij"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:766
 msgid "<0>{0}</0> with employee tax at 20% or more"
-msgstr ""
+msgstr "<0>{0}</0> met een belastingtarief voor werknemers van 20% of meer"
 
 #. placeholder {0}: lawConfig.maintenanceCost
 #: src/components/_political/law/Law.tsx:125
@@ -2756,7 +2756,7 @@ msgstr "<0>{activeCompaniesCount}/{0}</0> Bedrijven"
 
 #: src/components/_user/user/EcoSkillEffects.tsx:104
 msgid "<0>{bonus}</0> employee production, +{eventOdds}% event odds<1/>Card odds: <2/>"
-msgstr ""
+msgstr "<0>{bonus}</0> productiviteit van werknemers, +{eventOdds}% kans op gebeurtenissen<1/>Kans op kaarten: <2/>"
 
 #: src/components/_economy/company/CompanyProductionBonusTag.tsx:47
 msgid "<0>{depositBonus}</0> from deposit resources in <1/>."
@@ -2764,28 +2764,28 @@ msgstr "<0>{depositBonus}</0> van grondstofbronnen in <1/>."
 
 #: src/components/_economy/employee/employeeStats.tsx:318
 msgid "<0>{luck}</0> Luck: finds toolboxes, draws rarer training cards and tilts employee events."
-msgstr ""
+msgstr "<0>{geluk}</0> Geluk: vindt gereedschapskisten, trekt zeldzamere trainingskaarten en beïnvloedt de uitkomst van werknemersevenementen."
 
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:41
 msgid "<0>{percentPerDay}</0> per day worked in a good, up to <1>{maxPercent}</1>. Each good keeps its own days, so a moved employee starts over in the new good and keeps the old bonus for later."
-msgstr ""
+msgstr "<0>{percentPerDay}</0> per dag gewerkt in een product, tot een maximum van <1>{maxPercent}</1>. Elke product houdt een eigen telling van het aantal dagen bij; een medewerker die wordt overgeplaatst, begint in de nieuwe vestiging dus opnieuw, terwijl de eerder opgebouwde bonus behouden blijft voor later."
 
 #. placeholder {0}: fmt2(v / OUTPUT_DIVISOR)
 #: src/components/_economy/employee/employeeStats.tsx:236
 msgid "<0>{v}</0> Production ÷ {OUTPUT_DIVISOR} = <1>{0} points per hour</1>, before bonuses."
-msgstr ""
+msgstr "<0>{v}</0> Productie ÷ {OUTPUT_DIVISOR} = <1>{0} punten per uur</1>, vóór bonussen."
 
 #: src/components/_economy/employee/employeeStats.tsx:405
 msgid "<0>{v}</0> Responsibility = <1>+{happiness}</1> <2>Happiness</2>."
-msgstr ""
+msgstr "<0>{v}</0> Verantwoordelijkheid = <1>+{geluk}</1> <2>Geluk</2>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:924
 msgid "<0>+1</0> candidate on every company's daily shortlist"
-msgstr ""
+msgstr "<0>+1</0> kandidaat op de dagelijkse shortlist van elk bedrijf"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:635
 msgid "<0>+1</0> to one stat every 10 days at the same company, up to <1>+4</1>"
-msgstr ""
+msgstr "<0>+1</0> op een statistiek per 10 dagen bij hetzelfde bedrijf, tot maximaal <1>+4</1>"
 
 #. placeholder {0}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:285
