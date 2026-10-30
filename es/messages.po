@@ -6398,7 +6398,7 @@ msgstr ""
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:514
 msgid "Daily pay"
-msgstr "Pago disrio"
+msgstr "Pago diario"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:138
 msgid "Daily production"
@@ -6698,7 +6698,7 @@ msgstr "Depósitos de recursos"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:182
 msgid "Describe the role, what you expect, what you offer..."
-msgstr "Describe tu csrgo, que esperas, que ofreces..."
+msgstr "Describe tu cargo, que esperas, que ofreces..."
 
 #: src/components/_political/party/PartyDescriptionModal.tsx:62
 #: src/components/_political/party/PartyFormModal.tsx:101
