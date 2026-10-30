@@ -2764,7 +2764,7 @@ msgstr "<0>{depositBonus}</0> van grondstofbronnen in <1/>."
 
 #: src/components/_economy/employee/employeeStats.tsx:318
 msgid "<0>{luck}</0> Luck: finds toolboxes, draws rarer training cards and tilts employee events."
-msgstr "<0>{geluk}</0> Geluk: vindt gereedschapskisten, trekt zeldzamere trainingskaarten en beïnvloedt de uitkomst van werknemersevenementen."
+msgstr "<0>{luck}</0> Geluk: vindt gereedschapskisten, trekt zeldzamere trainingskaarten en beïnvloedt de uitkomst van werknemersevenementen."
 
 #: src/components/_economy/employee/EmployeeSpecializations.tsx:41
 msgid "<0>{percentPerDay}</0> per day worked in a good, up to <1>{maxPercent}</1>. Each good keeps its own days, so a moved employee starts over in the new good and keeps the old bonus for later."
@@ -2777,7 +2777,7 @@ msgstr "<0>{v}</0> Productie ÷ {OUTPUT_DIVISOR} = <1>{0} punten per uur</1>, v�
 
 #: src/components/_economy/employee/employeeStats.tsx:405
 msgid "<0>{v}</0> Responsibility = <1>+{happiness}</1> <2>Happiness</2>."
-msgstr "<0>{v}</0> Verantwoordelijkheid = <1>+{geluk}</1> <2>Geluk</2>."
+msgstr "<0>{v}</0> Verantwoordelijkheid = <1>+{happiness}</1> <2>Geluk</2>."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:924
 msgid "<0>+1</0> candidate on every company's daily shortlist"
