@@ -289,7 +289,7 @@ msgstr "{0}/{1} aktiv"
 #. placeholder {0}: userMapLootConfig.lootChancePercent
 #: src/components/_layout/LayoutMapUserMenu.tsx:451
 msgid "{0}% base chance, plus your Luck skill"
-msgstr "{0} % Grundchance, zuzüglich deiner Glück-Fertigkeit"
+msgstr "{0} % Grundchance, zuzüglich deiner Glücksfähigkeit"
 
 #. placeholder {0}: gameConfig.company.destructionValuePercent
 #: src/components/_economy/company/CompanyDropdown.tsx:517
@@ -422,7 +422,7 @@ msgstr "{count, plural, one {<0><1/>-mal in eine andere Region reisen</0>} other
 
 #: src/components/_user/mission/mission.frontConfig.tsx:730
 msgid "{count, plural, one {<0>Upgrade your skills <1/> time</0>} other {<2>Upgrade your skills <3/> times</2>}}"
-msgstr "{count, plural, one {<0>Deine Fertigkeiten <1/>-mal verbessern</0>} other {<2>Deine Fertigkeiten <3/>-mal verbessern</2>}}"
+msgstr "{count, plural, one {<0>Deine Fähigkeiten <1/>-mal verbessern</0>} other {<2>Deine Fähigkeiten <3/>-mal verbessern</2>}}"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:127
 msgid "{count, plural, one {<0>Work <1/> time in your companies</0>} other {<2>Work <3/> times in your companies</2>}}"
@@ -442,7 +442,7 @@ msgstr "{delay}, nachdem du in {source} die Antwort {answer} ausgewählt hast."
 
 #: src/components/_user/user/SkillUpgrade.tsx:293
 msgid "{draftPrestigeCount} prestige point(s) on this skill ({savedPrestigeCount} saved, locked until reset)"
-msgstr "{draftPrestigeCount} Prestigepunkt(e) für diese Fertigkeit ({savedPrestigeCount} gespeichert, bis zum Zurücksetzen gesperrt)"
+msgstr "{draftPrestigeCount} Prestigepunkt(e) für diese Fähigkeit ({savedPrestigeCount} gespeichert, bis zum Zurücksetzen gesperrt)"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:217
 msgid "{equippedCount, plural, one {# of them is equipped} other {# of them are equipped}}"
@@ -1996,7 +1996,7 @@ msgstr "+{perPoint}% pro Punkt über {statPivot}, -{perPoint}% pro Punkt darunte
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:191
 msgid "+{skillPerLevel}% per level of your Management."
-msgstr "+{skillPerLevel}% pro Level deines Managements."
+msgstr "+{skillPerLevel}% pro Stufe deines Managements."
 
 #: src/components/_user/user/Level.tsx:196
 msgid "+{xpBonusPercent}%"
@@ -2374,7 +2374,7 @@ msgstr "<0/> hat einen neuen Artikel veröffentlicht"
 #. placeholder {0}: data.level
 #: src/components/_user/notification/notification.frontConfig.tsx:1392
 msgid "<0/> reached level {0}!"
-msgstr "<0/> erreicht Level {0}!"
+msgstr "<0/> erreicht Stufe {0}!"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:742
 msgid "<0/> referred you to the game."
@@ -2500,7 +2500,7 @@ msgstr "<0>-15%</0> pro männlichen Kollegen, bis zu <1>-30%</1>"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:597
 msgid "<0>-20%</0> until storage reaches level <1>3</1>"
-msgstr "<0>-20%</0> bis das Lager Level <1>3</1> erreicht"
+msgstr "<0>-20%</0> bis das Lager Stufe <1>3</1> erreicht"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:623
 msgid "<0>-30%</0> for 3 days after a transfer"
@@ -2674,7 +2674,7 @@ msgstr "<0>{0}</0> pro ausländischer Staatsangehörigkeit unter den Kollegen, b
 #. placeholder {0}: 1
 #: src/components/_user/user/UserSkills.tsx:217
 msgid "<0>{0}</0> prestige point to spend on a skill."
-msgstr "<0>{0}</0> Prestigepunkt, der für eine Fertigkeit ausgegeben werden kann."
+msgstr "<0>{0}</0> Prestigepunkt, der für eine Fähigkeit ausgegeben werden kann."
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1817
@@ -2706,7 +2706,7 @@ msgstr "<0>{0}</0> für jeden schwächeren Kollegen"
 #. placeholder {1}: level + 1
 #: src/components/_user/level/LevelTrack.tsx:214
 msgid "<0>{0}</0> to level {1}"
-msgstr "<0>{0}</0> bis Level {1}"
+msgstr "<0>{0}</0> bis Stufe {1}"
 
 #. placeholder {0}: 6
 #. placeholder {1}: -2
@@ -2846,7 +2846,7 @@ msgstr "<0>Durchschnittliche Entwicklung</0> ist der Durchschnitt von <1>Kernent
 
 #: src/components/_political/country/CountryHeader.tsx:261
 msgid "<0>Core development</0> is calculated depending on the country's <1>Population</1> and average <2>Level</2>. then distributed equally among the country's <3>Core regions</3>."
-msgstr "<0>Kernentwicklung</0> berechnet sich aus der <1>Bevölkerung</1> und dem durchschnittlichen <2>Level</2> eines Landes. Dies verteilt sich gleichmäßig über die <3>Kernregionen</3> des Landes."
+msgstr "<0>Kernentwicklung</0> berechnet sich aus der <1>Bevölkerung</1> und der durchschnittlichen <2>Stufe</2> eines Landes. Dies verteilt sich gleichmäßig über die <3>Kernregionen</3> des Landes."
 
 #: src/components/_layout/loadingTips.tsx:210
 msgid "<0>Critical chance</0> caps at 100%: every point above turns into <1>{criticalOverflow}</1> critical damages."
@@ -3514,7 +3514,7 @@ msgstr "Eine Firma mit einem vollem Lager kann nicht produzieren und macht ihre 
 
 #: src/components/_layout/loadingTips.tsx:414
 msgid "A company's Break Room level is the number of employees it can hold."
-msgstr "Die Kapazität des Pausenraums einer Firma entspricht der Anzahl der Mitarbeiter, die darin Platz finden."
+msgstr "Die Stufe des Pausenraums einer Firma ist gleichzeitig die mögliche Anzahl für Mitarbeiter."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:222
 msgid "A core region of your country: your employees here get +{coreRegionBonusPercent}% production."
@@ -5844,7 +5844,7 @@ msgstr "Glückwunsch"
 #. placeholder {0}: data.level
 #: src/components/_user/notification/notification.frontConfig.tsx:410
 msgid "Congratulations, you leveled up to level {0}!"
-msgstr "Herzlichen Glückwunsch, du bist auf Level {0} aufgestiegen!"
+msgstr "Herzlichen Glückwunsch, du bist auf Stufe {0} aufgestiegen!"
 
 #. placeholder {0}: data.countryName
 #: src/components/_user/notification/notification.frontConfig.tsx:209
@@ -6493,7 +6493,7 @@ msgstr "Verursache Schaden in Schlachten, um deinen militärischen Rang zu erhö
 
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:118
 msgid "Deal damage in battles with your MU members to level up each month and earn rewards. Resets on the 1st of each month."
-msgstr "Verursache Schaden in Schlachten mit deinen ME-Mitgliedern, um jeden Monat im Level aufzusteigen und Belohnungen zu verdienen. Wird am 1. jedes Monats zurückgesetzt."
+msgstr "Verursache Schaden in Schlachten mit deinen ME-Mitgliedern, um jeden Monat in Stufen aufzusteigen und Belohnungen zu verdienen. Wird am 1. jedes Monats zurückgesetzt."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:179
 msgid "Deal Damages"
@@ -6995,11 +6995,11 @@ msgstr "Jede Stufe bietet Platz für einen weiteren Mitarbeiter."
 
 #: src/components/_user/user/EcoSkillEffects.tsx:87
 msgid "Each level gives your employees <0>{perPoint}</0> production, +{eventOddsPerLevel}% event odds and rarer training cards."
-msgstr "Jedes Level gibt deinen Mitarbeitern <0>{perPoint}</0> Produktion, +{eventOddsPerLevel}% Ereignischance und seltenere Trainingskarten."
+msgstr "Jede Stufe gibt deinen Mitarbeitern <0>{perPoint}</0> Produktion, +{eventOddsPerLevel}% Ereignischance und seltenere Trainingskarten."
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:181
 msgid "Each level of your Management moves {MOVED_PER_LEVEL}% of the draws from Common to the rarer cards."
-msgstr "Jedes Level deines Managements verschiebt {MOVED_PER_LEVEL}% der Ziehung von gewöhnlichen zu selteneren Karten."
+msgstr "Jede Stufe deines Managements verschiebt {MOVED_PER_LEVEL}% der Ziehung von gewöhnlichen zu selteneren Karten."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:268
 msgid "Each level opens something new."
@@ -7093,7 +7093,7 @@ msgstr "Wirtschaftsgesetze"
 
 #: src/components/_user/user/skills.frontConfig.tsx:210
 msgid "Economic skills"
-msgstr "Wirtschaftsfertigkeiten"
+msgstr "Wirtschaftsfähigkeiten"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:641
 msgid "Economy"
@@ -7808,7 +7808,7 @@ msgstr "Kämpfe für dein Land. Tippe auf „Schlachten“."
 #: src/components/_user/level/levelTrack.frontConfig.tsx:145
 #: src/components/_user/user/skills.frontConfig.tsx:220
 msgid "Fight skills"
-msgstr "Kampffertigkeiten"
+msgstr "Kampffähigkeiten"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:359
 msgid "Fight!"
@@ -8152,7 +8152,7 @@ msgstr "Edelsteine"
 
 #: src/pages/shop/index.tsx:187
 msgid "Gems are used to buy assets in the shop and to gift supporter months to other players"
-msgstr "Edelsteine werden verwendet, um Gegenstände im Shop zu kaufen und Supporter-Monate an andere Spieler zu verschenken"
+msgstr "Edelsteine werden verwendet, um Gegenstände im Shop zu kaufen und Unterstützer-Monate an andere Spieler zu verschenken"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:111
 msgid "Gems purchased"
@@ -8217,7 +8217,7 @@ msgstr "Hol dir mehrere Skins auf einmal mit 30% Rabatt!"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:251
 msgid "Get supporter plan"
-msgstr "Supporter-Plan holen"
+msgstr "Unterstützer-Plan holen"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:372
 msgid "Get to the front!"
@@ -8241,7 +8241,7 @@ msgstr "Geschenk gesendet! Danke für die Unterstützung des Spiels <3"
 
 #: src/components/_user/user/UserDropdown.tsx:295
 msgid "Gift Supporter Plan"
-msgstr "Supporter-Plan verschenken"
+msgstr "Unterstützer-Plan verschenken"
 
 #: src/components/_other/shop/SkinPackModal.tsx:225
 msgid "Gift this pack to someone"
@@ -8321,7 +8321,7 @@ msgstr "Zur befohlenen Schlacht gehen"
 
 #: src/components/_economy/company/CompanyList.tsx:191
 msgid "Go to skills"
-msgstr "Zu den Fertigkeiten gehen"
+msgstr "Zu den Fähigkeiten gehen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1640
 msgid "Go undercover yourself"
@@ -9696,7 +9696,7 @@ msgstr "Belohnung für Stufe {0}"
 #: src/components/_military/mu/MuLevelsInfoModal.tsx:89
 #: src/components/_user/level/LevelTrack.tsx:183
 msgid "Level {level}"
-msgstr "Level {level}"
+msgstr "Stufe {level}"
 
 #. placeholder {0}: unlocks.map((unlock, i) => ( <Fragment key={unlock.key}> {i > 0 && ', '} <b>{unlock.label}</b> </Fragment> ))
 #: src/components/_user/level/LevelTrack.tsx:108
@@ -9710,11 +9710,11 @@ msgstr "Stufe {minLevel}+"
 #: src/components/_political/election/Election.tsx:147
 #: src/components/_political/election/Election.tsx:240
 msgid "Level too low"
-msgstr "Level zu niedrig"
+msgstr "Stufe zu niedrig"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:2166
 msgid "Level up!"
-msgstr "Levelaufstieg!"
+msgstr "Stufenaufstieg!"
 
 #: src/components/_user/mission/ProgressHeader.tsx:83
 msgid "Levels"
@@ -10096,7 +10096,7 @@ msgstr "Maximale Ausrüstungsrarität"
 
 #: src/components/_military/mu/MuLevel.tsx:81
 msgid "Max level reached!"
-msgstr "Maximales Level erreicht!"
+msgstr "Maximale Stufe erreicht!"
 
 #: src/components/_military/tournament/TournamentHeader.tsx:112
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:85
@@ -10774,7 +10774,7 @@ msgstr "ME-Besitz übertragen"
 #. placeholder {0}: data.level
 #: src/components/_political/message/systemMessage.frontConfig.tsx:115
 msgid "MU reached level {0}! Reward: {rewardDisplay}"
-msgstr "ME hat Level {0} erreicht! Belohnung: {rewardDisplay}"
+msgstr "ME hat Stufe {0} erreicht! Belohnung: {rewardDisplay}"
 
 #: src/components/_military/tournament/TournamentRegistrationPanel.tsx:49
 msgid "MU Tournament"
@@ -11835,7 +11835,7 @@ msgstr "Nur Spieler, die bei Beginn der Umfrage bereits Bürger von <0/> waren, 
 
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:56
 msgid "Only supporters can see their spending and income breakdown."
-msgstr "Nur Supporter können ihre Ausgaben- und Einnahmenaufschlüsselung sehen."
+msgstr "Nur Unterstützer können ihre Ausgaben- und Einnahmenaufschlüsselung sehen."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:168
 msgid "Only the government, or an owner/commander of an MU of this country, can register it"
@@ -13084,11 +13084,11 @@ msgstr "Erreiche eine Stufe und hole die EP ab."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:592
 msgid "Reach level 10"
-msgstr "Level 10 erreichen"
+msgstr "Stufe 10 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:591
 msgid "Reach Level 10"
-msgstr "Erreiche Level 10"
+msgstr "Erreiche Stufe 10"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:597
 msgid "Reach level 15"
@@ -13116,11 +13116,11 @@ msgstr "Stufe 25 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:587
 msgid "Reach level 5"
-msgstr "Level 5 erreichen"
+msgstr "Stufe 5 erreichen"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:586
 msgid "Reach Level 5"
-msgstr "Erreiche Level 5"
+msgstr "Erreiche Stufe 5"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:648
 msgid "Reach military rank 10"
@@ -14437,7 +14437,7 @@ msgstr "Fähigkeitsprofile"
 #: src/components/_user/user/SkillBar.tsx:32
 #: src/components/_user/user/SkillValue.tsx:69
 msgid "Skill upgrade:"
-msgstr "Skill-Upgrade:"
+msgstr "Fähigkeits-Upgrade:"
 
 #: src/utils/translations.tsx:257
 msgid "Skillet"
@@ -14898,7 +14898,7 @@ msgstr "Unterstütze uns"
 #: src/components/_ui/PremiumButtonTag.tsx:25
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:141
 msgid "Supporter"
-msgstr "Supporter"
+msgstr "Unterstützer"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:386
 #: src/components/_economy/inventoryAccount/InventoryAccount.tsx:52
@@ -14907,19 +14907,19 @@ msgstr "Supporter"
 #: src/components/_user/user/UserDropdown.tsx:255
 #: src/components/_user/user/UserDropdown.tsx:264
 msgid "Supporter feature"
-msgstr "Supporter-Funktion"
+msgstr "Unterstützer-Funktion"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:157
 msgid "Supporter Gift"
-msgstr "Supporter-Geschenk"
+msgstr "Unterstützer-Geschenk"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:79
 msgid "Supporter gifts"
-msgstr "Supporter-Geschenke"
+msgstr "Unterstützer-Geschenke"
 
 #: src/components/_user/user/UserRankingsPanel.tsx:73
 msgid "Supporter months"
-msgstr "Supporter-Monate"
+msgstr "Unterstützer-Monate"
 
 #. placeholder {0}: user.infos.premiumMonthsCount ?? 0
 #: src/components/_user/user/UserBadges.tsx:56
@@ -14928,16 +14928,16 @@ msgstr "Unterstützer des Spiels seit <0>{0, plural, one {# Monat} other {# Mona
 
 #: src/components/_user/premium/PremiumCard.tsx:60
 msgid "Supporter plan"
-msgstr "Supporter-Plan"
+msgstr "Unterstützer-Plan"
 
 #: src/components/_user/modals/PremiumModal.tsx:31
 #: src/pages/user/[userId]/settings.tsx:158
 msgid "Supporter Plan"
-msgstr "Supporter-Plan"
+msgstr "Unterstützer-Plan"
 
 #: src/components/_user/kits/KitsPopover.tsx:216
 msgid "Supporter Plan: up to {premiumMax} kits"
-msgstr "Supporter-Plan: Bis zu {premiumMax} Sets"
+msgstr "Unterstützer-Plan: Bis zu {premiumMax} Sets"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1940
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:161
@@ -16023,7 +16023,7 @@ msgstr "Dieses Gesetz hat zusätzliche variable Kosten"
 
 #: src/components/_political/law/LawTypeSelect.tsx:208
 msgid "This law requires at least {minActiveCitizen} active citizens (level 10+) in the country."
-msgstr "Dieses Gesetz erfordert mindestens {minActiveCitizen} aktive Bürger (Level 10+) im Land."
+msgstr "Dieses Gesetz erfordert mindestens {minActiveCitizen} aktive Bürger (Stufe 10+) im Land."
 
 #. placeholder {0}: cooldownDays ?? 0
 #: src/components/_political/government/Government.tsx:276
@@ -16785,7 +16785,7 @@ msgstr "Den Aufenthaltsraum vergrößern"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:234
 msgid "Upgrade to supporter"
-msgstr "Auf Supporter aufstufen"
+msgstr "Auf Unterstützer aufstufen"
 
 #: src/components/_user/user/UserSkills.tsx:279
 msgid "Upgrade your skills!"
@@ -17227,7 +17227,7 @@ msgstr "Abwarten"
 #. placeholder {0}: gameConfig?.referral.levelNeededForBadge
 #: src/components/_user/referral/ReferralList.tsx:112
 msgid "Waiting for level {0}"
-msgstr "Warte auf Level {0}"
+msgstr "Warte auf Stufe {0}"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:90
 msgid "Walked out: they were too unhappy to keep working for you."
@@ -17247,7 +17247,7 @@ msgstr "Krieg beendet"
 
 #: src/components/_user/modals/PremiumModal.tsx:39
 msgid "War Era is 100% free to play and has no <0>ads</0> or <1>pay-to-win</1>, If you enjoy the game, you can support its development by subscribing to the Supporter Plan <3"
-msgstr "War Era ist zu 100 % kostenlos spielbar und hat keine <0>Werbung</0> oder <1>Pay-to-Win</1>. Wenn dir das Spiel gefällt, kannst du die Entwicklung unterstützen, indem du den Supporter-Plan abonnierst <3"
+msgstr "War Era ist zu 100 % kostenlos spielbar und hat keine <0>Werbung</0> oder <1>Pay-to-Win</1>. Wenn dir das Spiel gefällt, kannst du die Entwicklung unterstützen, indem du den Unterstützer-Plan abonnierst <3"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3229
 msgid "War stories"
@@ -17757,7 +17757,7 @@ msgstr "Du fühlst dich gesund, der Debuff-Effekt wirkt nicht mehr auf dich."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:159
 msgid "You gifted a supporter plan subscription to someone <3"
-msgstr "Du hast jemandem ein Supporter-Plan-Abo geschenkt <3"
+msgstr "Du hast jemandem ein Unterstützer-Plan-Abo geschenkt <3"
 
 #: src/pages/country/[countryId]/citizenship.tsx:70
 msgid "You gonna be automatically approved because the country population is below"
@@ -17823,7 +17823,7 @@ msgstr "Du bist aus der Regierung zurückgetreten"
 #. placeholder {0}: gameConfig?.user.canTakeControlAtLevel
 #: src/pages/country/[countryId]/index.tsx:106
 msgid "You have to be level {0} to take control of a country."
-msgstr "Du musst Level {0} sein, um die Kontrolle über ein Land zu übernehmen."
+msgstr "Du musst Stufe {0} sein, um die Kontrolle über ein Land zu übernehmen."
 
 #. placeholder {0}: gameConfig?.user.takeControlCooldownInDays ?? 0
 #: src/pages/country/[countryId]/index.tsx:108
@@ -17846,7 +17846,7 @@ msgstr "Du hast geholfen, das Spiel in eine andere Sprache zu übersetzen"
 #. placeholder {1}: staticGameConfig.referral.lifeTimeBadgeMoneySharePercent
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:34
 msgid "You invited a friend or spammed forum posts. After they reach level {0}, you will get the badge + {1}% of all your referrals' badge rewards"
-msgstr "Du hast einen Freund eingeladen oder Forenbeiträge gespammt. Sobald sie Level {0} erreichen, erhältst du das Abzeichen + {1}% aller Abzeichen-Belohnungen deiner Empfehlungen"
+msgstr "Du hast einen Freund eingeladen oder Forenbeiträge gespammt. Sobald sie Stufe {0} erreichen, erhältst du das Abzeichen + {1}% aller Abzeichen-Belohnungen deiner Empfehlungen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1382
 msgid "You lose the election 1 to 0."
@@ -17855,19 +17855,19 @@ msgstr "Du verlierst die Wahl mit 0 zu 1."
 #. placeholder {0}: gameConfig.election.candidateMinLevel
 #: src/components/_political/election/Election.tsx:149
 msgid "You must be at least level {0} to become a candidate."
-msgstr "Du musst mindestens Level {0} erreicht haben um zu kandidieren."
+msgstr "Du musst mindestens Stufe {0} erreicht haben um zu kandidieren."
 
 #. placeholder {0}: gameConfig.region.resistanceContributionMinLevel
 #. placeholder {0}: gameConfig.unrest.contributionMinLevel
 #: src/components/_political/region/RegionResistance.tsx:240
 #: src/components/_political/unrest/UnrestPanel.tsx:102
 msgid "You must be at least level {0} to contribute."
-msgstr "Du musst mindestens Level {0} sein, um beizutragen."
+msgstr "Du musst mindestens Stufe {0} sein, um beizutragen."
 
 #. placeholder {0}: gameConfig.election.voteMinLevel
 #: src/components/_political/election/Election.tsx:242
 msgid "You must be at least level {0} to vote."
-msgstr "Du musst mindestens Level {0} sein, um abzustimmen."
+msgstr "Du musst mindestens Stufe {0} sein, um abzustimmen."
 
 #: src/components/_military/tournament/TournamentRegisterButton.tsx:155
 msgid "You need a country to take part"
@@ -17895,7 +17895,7 @@ msgstr "Du hast {name}s Spind geöffnet: 212 Bleistifte, 40 linke Stiefel und ei
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:167
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
-msgstr "Du hast die Rechnungen des Entwicklers bezahlt <3 (Top 3 in der monatlichen Supporter-Geschenke-Rangliste)"
+msgstr "Du hast die Rechnungen des Entwicklers bezahlt <3 (Top 3 in der monatlichen Unterstützer-Geschenke-Rangliste)"
 
 #: src/components/_economy/employee/CostPerPp.tsx:67
 msgid "You pay"
@@ -18042,7 +18042,7 @@ msgstr "Du hast 100 Mal gearbeitet"
 
 #: src/components/_user/premium/PremiumCard.tsx:55
 msgid "You're already a supporter <0/>"
-msgstr "Du bist bereits ein Supporter <0/>"
+msgstr "Du bist bereits ein Unterstützer <0/>"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:38
 msgid "You're climbing, don't stop now"
@@ -18066,7 +18066,7 @@ msgstr "Du bist in Bestform"
 
 #: src/components/_user/user/Level.tsx:145
 msgid "You've reached max level!"
-msgstr "Du hast das maximale Level erreicht!"
+msgstr "Du hast die maximale Stufe erreicht!"
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:34
 msgid "Your <0>Energy</0> is full. Spend it before it goes to waste."
