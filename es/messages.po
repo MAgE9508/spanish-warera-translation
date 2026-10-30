@@ -1613,7 +1613,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:113
 msgid "{input} days in the company"
-msgstr ""
+msgstr "{input} días en la empresa"
 
 #: src/components/_economy/itemOffer/itemOffer.hooks.ts:25
 msgid "{itemCount, plural, one {Item put on sale} other {Items put on sale}}"
@@ -1621,11 +1621,11 @@ msgstr ""
 
 #: src/components/_user/notification/notification.frontConfig.tsx:530
 msgid "{lead} and others are waiting for your decision."
-msgstr ""
+msgstr "{lead} y otros están esperando tu decision."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:532
 msgid "{lead} is waiting for your decision."
-msgstr ""
+msgstr "{lead} está esperando tu decision."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:441
 msgid "{managerTax}% manager tax is withheld from this pay when the manager collects it, for the country the company sits in."
@@ -1641,7 +1641,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:858
 msgid "{name} and {partnerName} are inseparable now."
-msgstr ""
+msgstr "{name} y {partnerName} son inseparables ahora."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1922
 msgid "{name} and {partnerName} are officially together, and it is the real thing."
@@ -1653,7 +1653,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:856
 msgid "{name} and {partnerName} are old friends now."
-msgstr ""
+msgstr "{name} y {partnerName} son viejos amigos ahora."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1857
 msgid "{name} and {partnerName} blame each other for the ban. It is personal now."
@@ -1693,11 +1693,11 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1832
 msgid "{name} says soup is a drink. {partnerName} says it is food. They have not spoken in three days."
-msgstr ""
+msgstr "{name} dice que la sopa es una bebida. {partnerName} dice que es una comida. No se han hablado en tres días."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3719
 msgid "{name} wants the thermostat at 18 degrees, {partnerName} at 26. Half the workshop wears coats, the other half shorts."
-msgstr ""
+msgstr "{name} quiere el termostato a 18 grados, {partnerName} lo quiere a 26. La mitad de los trabajadores visten abrigos y la otra mitad shorts."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3775
 msgid "{name} wears the hat proudly. {partnerName} wanted the hat."
@@ -1705,7 +1705,7 @@ msgstr ""
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:606
 msgid "{named} and {counted}"
-msgstr ""
+msgstr "{named} y {counted}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventInbox.tsx:123
 msgid "{names}: decided while you were away"
