@@ -7791,7 +7791,7 @@ msgstr "Kaution"
 #: src/components/_layout/LayoutRightIcons.tsx:275
 #: src/components/_layout/MoreButtonNav.tsx:83
 msgid "Feed"
-msgstr "Füttern"
+msgstr "Feed"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:159
 msgid "Fight for <0/> in <1/>"
