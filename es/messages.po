@@ -16304,7 +16304,7 @@ msgstr "Top regaladores del mes"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:399
 msgid "Top of the class: there is much more to train now."
-msgstr ""
+msgstr "El mejor de la clase: ahora hay mucho más que entrenar."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:97
 msgid "Top of the hill"
@@ -16423,16 +16423,16 @@ msgstr "¡Torneo ganado!"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:55
 msgid "Trade items"
-msgstr ""
+msgstr "Intercambiar objetos"
 
 #. placeholder {0}: coworker.name || t`this employee`
 #: src/components/_economy/employee/MoveEmployeeModal.tsx:261
 msgid "Trade places between {who} and {0}?"
-msgstr ""
+msgstr "¿Intercambiar posiciones entre {who} y {0}?"
 
 #: src/components/_economy/manager/MoveManagerModal.tsx:232
 msgid "Trade places between <0/> and <1/>? Each keeps their own pay and what they have earned, and both can resign straight afterwards."
-msgstr ""
+msgstr "¿Intercambiar posiciones entre <0/> y <1/>? Cada uno conserva su propio sueldo y lo que ha ganado, y ambos pueden renunciar justo después."
 
 #: src/components/_economy/transaction/TransactionList.tsx:71
 #: src/pages/market/index.tsx:62
@@ -16446,11 +16446,11 @@ msgstr "Transacción de comercio"
 #: src/components/_economy/employee/EmployeeModal.tsx:370
 #: src/components/_economy/employee/TrainingDraftModal.tsx:368
 msgid "Train"
-msgstr ""
+msgstr "Entrenar"
 
 #: src/components/_layout/loadingTips.tsx:405
 msgid "Train each employee once a day, resetting at 00:00 UTC: you draw {trainingHandSize} cards and keep the one you like."
-msgstr ""
+msgstr "Entrena a cada empleado una vez al día, reiniciándose a las 00:00 UTC: recibes {trainingHandSize} cartas y te quedas con la que te guste."
 
 #: src/components/_user/mission/mission.frontConfig.tsx:768
 msgid "Train Employees"
@@ -16458,7 +16458,7 @@ msgstr "Entrenar Empleados"
 
 #: src/components/_economy/employee/EmployeeModal.tsx:772
 msgid "Train to reveal traits"
-msgstr ""
+msgstr "Entrenar para revelar rasgos"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:174
 msgid "Train your employee!"
@@ -16491,11 +16491,11 @@ msgstr "Entrenamiento completado."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:176
 msgid "Training costs <0>Energy</0> and makes them better."
-msgstr ""
+msgstr "El entrenamiento cuesta <0>Energía</0> y los mejora."
 
 #: src/components/_economy/employee/TrainingCardList.tsx:109
 msgid "Training deals a hand of {handSize} of these, all at the same rarity, and you keep one."
-msgstr ""
+msgstr "El entrenamiento reparte una mano de {handSize} de estos, todos de la misma rareza, y te quedas con uno."
 
 #: src/components/_economy/employee/TrainingHistory.tsx:244
 msgid "Training history"
@@ -16510,7 +16510,7 @@ msgstr "Entrenamiento potencial"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:179
 msgid "Training potential left"
-msgstr ""
+msgstr "Potencial de entrenamiento restante"
 
 #. placeholder {0}: outcome.potentialMax
 #: src/components/_economy/employee/TrainingHistory.tsx:152
@@ -16519,13 +16519,13 @@ msgstr "El entrenamiento potencial aumento a <0>{0}</0>"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:156
 msgid "Training raises them all."
-msgstr ""
+msgstr "El entrenamiento los mejora a todos."
 
 #: src/components/_economy/employee/EmployeeModal.tsx:722
 #: src/components/_economy/employee/EmployeeTooltip.tsx:155
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:171
 msgid "Traits"
-msgstr ""
+msgstr "Rasgos"
 
 #: src/components/_user/user/UserHeader.tsx:232
 msgid "Transac."
@@ -16562,7 +16562,7 @@ msgstr "Viajar"
 
 #: src/components/_political/party/PartyTooltip.tsx:91
 msgid "Treasurer"
-msgstr ""
+msgstr "Tesorero"
 
 #: src/components/_other/shop/skin.frontConfig.tsx:95
 msgid "Trebuchet"
@@ -16574,11 +16574,11 @@ msgstr "Soldado de caballería"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1998
 msgid "Trouble in paradise"
-msgstr ""
+msgstr "Problemas en el paraíso"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3290
 msgid "Try it"
-msgstr ""
+msgstr "Pruébalo"
 
 #: src/pages/user/[userId]/settings.tsx:137
 msgid "Tutorials"
@@ -16590,36 +16590,36 @@ msgstr "Tutoriales restablecidos"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1315
 msgid "Two centimeters off. It is worse now."
-msgstr ""
+msgstr "Se desvió por dos centímetros. Ahora está peor."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:376
 msgid "Two coworkers hired 7 days ago or more, with happiness {mood} or more and at most 15 years apart, neither of them with a {sweethearts} trait yet, and not each other's {nemesis}."
-msgstr ""
+msgstr "Dos compañeros de trabajo contratados hace 7 días o más, con una felicidad de {mood} o más y que se lleven como máximo 15 años, ninguno de ellos con el rasgo {sweethearts} todavía, y que no sean el {nemesis} del otro."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:202
 msgid "Two coworkers with happiness {mood} or more, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {sociable} or {comic}."
-msgstr ""
+msgstr "Dos compañeros de trabajo con una felicidad de {mood} o más, ninguno de ellos con el rasgo {oldFriends} o {nemesis} todavía. El doble de probable si uno es {sociable} o {comic}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:587
 msgid "Two coworkers, in a company with 3 or more employees at work."
-msgstr ""
+msgstr "Dos compañeros de trabajo, en una empresa con 3 o más empleados trabajando."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:559
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:569
 msgid "Two coworkers, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr ""
+msgstr "Dos compañeros de trabajo, ninguno de ellos con el rasgo {oldFriends} o {nemesis} todavía."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:353
 msgid "Two coworkers, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {rival}, {envious} or {primaDonna}."
-msgstr ""
+msgstr "Dos compañeros de trabajo, ninguno de ellos con el rasgo {oldFriends} o {nemesis} todavía. El doble de probable si uno es {rival}, {envious} o {primaDonna}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:217
 msgid "Two coworkers, when one of them is {bully}, {rival}, {xenophobe} or {envious}, is the other's {nemesis}, or has happiness {mood} or less."
-msgstr ""
+msgstr "Dos compañeros de trabajo, cuando uno de ellos es {bully}, {rival}, {xenophobe} o {envious}, es el {nemesis} del otro, o tiene una felicidad de {mood} o menos."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:522
 msgid "Two days away, and a much happier face on the way back."
-msgstr ""
+msgstr "Dos días fuera, y con una cara mucho más feliz a la vuelta."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:90
 msgid "Two new habits"
@@ -16647,11 +16647,11 @@ msgstr "Cajas sin recoger que quedan pendientes en el mapa, de un total de {maxL
 
 #: src/components/_user/user/EcoSkillEffects.tsx:28
 msgid "Uncommon"
-msgstr ""
+msgstr "Poco común"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1588
 msgid "Uncursed, certified, and the exorcist fixed the squeak too."
-msgstr ""
+msgstr "Sin maldición, certificado, y el exorcista arregló el chirrido también."
 
 #: src/components/_user/UserEquipments.tsx:167
 msgid "Unequip all"
@@ -16659,7 +16659,7 @@ msgstr "Desequipar todo"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1854
 msgid "United in outrage against you, {name} and {partnerName} are inseparable now."
-msgstr ""
+msgstr "Unidos en su indignación contra ti, {name} y {partnerName} ahora son inseparables."
 
 #: src/pages/region/[regionId]/index.tsx:197
 msgid "Unlinked"
@@ -16679,7 +16679,7 @@ msgstr "Desbloquear botón Ayudar a todos"
 
 #: src/components/_user/user/SkillPresetsModal.tsx:197
 msgid "Unlock more skill presets"
-msgstr ""
+msgstr "Desbloquear más sets de habilidades"
 
 #: src/components/_user/premium/PremiumFeatureList.tsx:107
 msgid "Unlock Produce all button"
@@ -16699,11 +16699,11 @@ msgstr "Se quitará el silencio en <0/>"
 
 #: src/components/_economy/employee/employeeStats.tsx:674
 msgid "Unpaid"
-msgstr ""
+msgstr "Sin pagar"
 
 #: src/components/_social/PinArticleModal.tsx:99
 msgid "Unpin"
-msgstr ""
+msgstr "Desfijar"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:93
 msgid "Unreal. This doesn't happen"
@@ -16716,7 +16716,7 @@ msgstr "Disturbio"
 #. placeholder {0}: unrestMultiplier(effects.unrestIncreaseMultiplier)
 #: src/components/_political/govType/govType.frontConfig.tsx:365
 msgid "Unrest contributions {0} when pushing the bar up"
-msgstr ""
+msgstr "Contribuciones de disturbio {0} al subir la barra"
 
 #: src/components/_political/contribution/ContributionList.tsx:196
 msgid "Unrest Contributors"
@@ -16724,7 +16724,7 @@ msgstr "Contribuidores del disturbio"
 
 #: src/components/_user/level/levelTrack.frontConfig.tsx:121
 msgid "Unrestricted chat"
-msgstr ""
+msgstr "Chat sin restricciones"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:278
 msgid "Unselect all"
@@ -16745,7 +16745,7 @@ msgstr "Actualizar enfoque"
 
 #: src/components/_user/user/EnergyGiftAlert.tsx:30
 msgid "Update gift"
-msgstr ""
+msgstr "Actualizar regalo"
 
 #: src/pages/user/[userId]/settings.tsx:91
 msgid "Update infos"
@@ -16753,7 +16753,7 @@ msgstr "Actualizar información"
 
 #: src/components/_social/PinArticleModal.tsx:107
 msgid "Update pin"
-msgstr ""
+msgstr "Actualizar fijado"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:581
 msgid "Upgrade a company"
@@ -16814,7 +16814,7 @@ msgstr "Usa <0/>"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2685
 msgid "Use it"
-msgstr ""
+msgstr "Úsalo"
 
 #: src/components/_user/mission/mission.frontConfig.tsx:758
 msgid "Use Pills"
@@ -16822,7 +16822,7 @@ msgstr "Usa Pastillas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2537
 msgid "Use them as notepaper"
-msgstr ""
+msgstr "Úsalos como papel para notas"
 
 #: src/utils/translations.tsx:94
 #: src/utils/translations.tsx:100
