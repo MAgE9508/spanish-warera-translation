@@ -9084,19 +9084,19 @@ msgstr "IJzer"
 
 #: src/utils/translations.tsx:250
 msgid "Iron Pickaxe"
-msgstr ""
+msgstr "IJzeren houweel"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2323
 msgid "Is that smoke?"
-msgstr ""
+msgstr "Is dat rook?"
 
 #: src/components/_user/auth/WelcomeModal.tsx:283
 msgid "Issued"
-msgstr ""
+msgstr "Uitgegeven"
 
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:76
 msgid "It applies right away, and they can resign over it."
-msgstr ""
+msgstr "Het is per direct van toepassing, en ze kunnen erom ontslag nemen."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2017
 msgid "It ends badly. {name} and {partnerName} cannot stand each other now."
