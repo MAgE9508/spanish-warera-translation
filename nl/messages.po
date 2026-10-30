@@ -1812,23 +1812,23 @@ msgstr "{selectedCount} geselecteerd"
 
 #: src/components/_social/poll/PollCard.tsx:221
 msgid "{timeLeft} left"
-msgstr ""
+msgstr "{timeLeft} over"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:275
 #: src/components/_economy/employee/WorkforceSummary.tsx:430
 msgid "{trainable} to train"
-msgstr ""
+msgstr "{trainable} te trainen"
 
 #. placeholder {0}: employee.potential
 #. placeholder {1}: employee.potentialMax
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:370
 msgid "{trainingsLeft} training sessions left ({0}/{1} used)."
-msgstr ""
+msgstr "{trainingsLeft} trainingssessies over ({0}/{1} used)."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:482
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "{value} days of experience"
-msgstr ""
+msgstr "{value} dagen met ervaring"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:127
 msgid "{value} km"
@@ -1836,45 +1836,45 @@ msgstr "{value} km"
 
 #: src/components/_economy/employee/employeeStats.tsx:472
 msgid "{value} morale = <0>{signedBonus}</0> {production}."
-msgstr ""
+msgstr "{value} moraal = <0>{signedBonus}</0> {production}."
 
 #: src/components/_economy/employee/employeeStats.tsx:468
 msgid "{value} morale = <0>no</0> {production} change."
-msgstr ""
+msgstr "{value} moraal = <0>geen</0> {production} verandert."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:716
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:720
 msgid "{value} received"
-msgstr ""
+msgstr "{value} gekregen"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:122
 msgid "{value} training potential left"
-msgstr ""
+msgstr "{value} training potentieel over"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:142
 #: src/components/_economy/employee/RecruitModal.tsx:266
 msgid "{wage} / day"
-msgstr ""
+msgstr "{wage} / dag"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:529
 msgid "{who} leaves the company: {value}"
-msgstr ""
+msgstr "{who} verlaat het bedrijf: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:737
 msgid "{who} left: {value}"
-msgstr ""
+msgstr "{who} verlaat: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:653
 msgid "{who}: {value}"
-msgstr ""
+msgstr "{who}: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:401
 msgid "{who}: {value} (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} (gebruikt Potentieel)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:709
 msgid "{who}: {value} days of experience"
-msgstr ""
+msgstr "{who}: {value} dagen met ervaring"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
@@ -1883,64 +1883,64 @@ msgstr ""
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:627
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:636
 msgid "{who}: {value} for {0}"
-msgstr ""
+msgstr "{who}: {value} voor {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:386
 msgid "{who}: {value} to a random stat"
-msgstr ""
+msgstr "{who}: {value} aan een willekeurige stat"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:394
 msgid "{who}: {value} to a random stat (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} aan een willekeurige stat (gebruikt Potentieel)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:409
 msgid "{who}: {value} training potential"
-msgstr ""
+msgstr "{who}: {value} training potentieel"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:377
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:644
 msgid "{who}: <0>away</0> for {0} (no work, no wage)"
-msgstr ""
+msgstr "{who}: <0>weg</0> voor {0} (geen werk, geen loon)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:690
 msgid "{who}: asks for more pay"
-msgstr ""
+msgstr "{who}: vraagt voor meer loon"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:702
 msgid "{who}: experience in {good} lost"
-msgstr ""
+msgstr "{who}: ervaring in {good} verloren"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:428
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:668
 msgid "{who}: gains <0/>"
-msgstr ""
+msgstr "{who}: krijgt <0/>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:423
 msgid "{who}: gains a random <0>bad trait</0>"
-msgstr ""
+msgstr "{who}: krijgt een willekeurige slechte eigenschap <0>slechte eigenschap</0>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:417
 msgid "{who}: gains a random <0>good trait</0>"
-msgstr ""
+msgstr "{who}: krijgt een willekeutige <0>goede eigenschap</0>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:440
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:674
 msgid "{who}: loses <0/>"
-msgstr ""
+msgstr "{who}: verliest <0/>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:435
 msgid "{who}: loses a <0>bad trait</0>"
-msgstr ""
+msgstr "{who}: verliest een <0>slechte eigenschap</0>"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:693
 msgid "{who}: now asks {value} over the market rate"
-msgstr ""
+msgstr "{who}: vraagt nu {value} over de mart prijs"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:661
 msgid "{who}: training potential now {value}"
-msgstr ""
+msgstr "{who}: training potentieel nu {value}"
 
 #: src/components/_common/GameRules.tsx:197
 msgid "* A gear merging scheme consists of buying items with very low durability at a relatively high price, merging them, and then reselling the result at a low price."
@@ -1956,7 +1956,7 @@ msgstr "*Kan verbranden"
 
 #: src/components/_user/SavedSlotsUsage.tsx:37
 msgid "/{max, plural, one {# slot} other {# slots}}"
-msgstr ""
+msgstr "/{max, plural, one {# slot} other {# slots}}"
 
 #: src/components/_economy/employee/EmployeeList.tsx:230
 #: src/components/_economy/employee/EmployeeList.tsx:236
@@ -1976,15 +1976,15 @@ msgstr "/dag"
 #: src/components/_economy/manager/ManagerRateReductionAlert.tsx:45
 #: src/components/_economy/manager/MoveManagerModal.tsx:62
 msgid "/h"
-msgstr ""
+msgstr "/h"
 
 #: src/components/_economy/manager/ManagerRateFormModal.tsx:107
 msgid "/h at {points} Management points"
-msgstr ""
+msgstr "/h op {points} Management punten"
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:383
 msgid "/h max"
-msgstr ""
+msgstr "/h max"
 
 #: src/components/_military/battle/MyBattlesRecapCard.tsx:203
 msgid "+{hiddenBattles} more battles"
@@ -1992,11 +1992,11 @@ msgstr "+{hiddenBattles} gevechten"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:195
 msgid "+{perPoint}% per point above {statPivot}, -{perPoint}% per point under."
-msgstr ""
+msgstr "+{perPoint}% per punt boven {statPivot}, -{perPoint}% per punt onder."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:191
 msgid "+{skillPerLevel}% per level of your Management."
-msgstr ""
+msgstr "+{skillPerLevel}% per level van je Management."
 
 #: src/components/_user/user/Level.tsx:196
 msgid "+{xpBonusPercent}%"
@@ -2004,45 +2004,45 @@ msgstr "+{xpBonusPercent}%"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:47
 msgid "+1 to one stat."
-msgstr ""
+msgstr "+1 in een stat."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:203
 msgid "+1% per {happinessDivisor} happiness above 50, -1% per {happinessDivisor} under."
-msgstr ""
+msgstr "+1% per {happinessDivisor} blijdschap boven 50, -1% per {happinessDivisor} onder."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:48
 msgid "+2 to one stat."
-msgstr ""
+msgstr "+2 in een stat"
 
 #: src/components/_economy/employee/training.frontConfig.tsx:142
 msgid "+2 training potential: one session more than the draw just spent."
-msgstr ""
+msgstr "+2 trainingspotentieel: één sessie meer dan de net uitgegeven trekking."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:49
 msgid "+3 to one stat."
-msgstr ""
+msgstr "+3 in een stat."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:147
 msgid "+3 training potential: two sessions more than the draw just spent."
-msgstr ""
+msgstr "+3 trainings potentieel: twee sessies meer dan de net uitgegeven trekking."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:50
 msgid "+4 to one stat."
-msgstr ""
+msgstr "+4 in een stat."
 
 #: src/components/_economy/employee/training.frontConfig.tsx:152
 msgid "+4 training potential: three sessions more than the draw just spent."
-msgstr ""
+msgstr "+4 trainings potentieel: three sessies meer dan de net uitgegeven trekking."
 
 #: src/components/_economy/employeeEvent/EmployeeEventText.tsx:31
 msgid "<0/> & <1/>"
-msgstr ""
+msgstr "<0/> & <1/>"
 
 #: src/components/_economy/employee/TrainingCard.tsx:280
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:329
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:592
 msgid "<0/> and <1/>"
-msgstr ""
+msgstr "<0/> en <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:389
 #: src/components/_user/notification/notification.frontConfig.tsx:1291
@@ -2053,7 +2053,7 @@ msgstr "<0/> heeft zich aangemeld om lid te worden van <1/>"
 #. placeholder {1}: managerTax > 0 && ( <Typo as='span' opacity={0.7}> {' ('} <Money static color='yellowText'> {wageAfterTax} </Money> {' after taxes)'} </Typo> )
 #: src/components/_economy/manager/ManagerOfferList.tsx:103
 msgid "<0/> at <1>{0}</1> /h.{1}"
-msgstr ""
+msgstr "<0/> aan <1>{0}</1> /u.{1}"
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:54
 msgid "<0/> banned <1/> from the conversation"
@@ -2105,7 +2105,7 @@ msgstr "<0/> heeft de regio in <1/> veroverd"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:509
 msgid "<0/> could not pay you this hour, so your bonus did not apply either. Nothing is owed for it."
-msgstr ""
+msgstr "<0/> kon u dit uur niet betalen, dus uw bonus gold ook niet. Er is niets voor verschuldigd."
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:94
 msgid "<0/> created the conversation"
@@ -2115,7 +2115,7 @@ msgstr "<0/> heeft het gesprek aangemaakt"
 #. placeholder {1}: data.newWage
 #: src/components/_user/notification/notification.frontConfig.tsx:495
 msgid "<0/> cut your pay from <1>{0}</1> to <2>{1}</2> per hour. Accept it or resign."
-msgstr ""
+msgstr "<0/> heeft je loon verlaagd van <1>{0}</1> naar <2>{1}</2> per uur. Accepteer het of neem ontslag."
 
 #: src/components/_political/event/event.frontConfig.tsx:180
 msgid "<0/> declared war on <1/>"
