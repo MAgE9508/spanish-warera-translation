@@ -1812,23 +1812,23 @@ msgstr "{selectedCount} seleccionados"
 
 #: src/components/_social/poll/PollCard.tsx:221
 msgid "{timeLeft} left"
-msgstr ""
+msgstr "Quedan {timeLeft}"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:275
 #: src/components/_economy/employee/WorkforceSummary.tsx:430
 msgid "{trainable} to train"
-msgstr ""
+msgstr "{trainable} por entrenar"
 
 #. placeholder {0}: employee.potential
 #. placeholder {1}: employee.potentialMax
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:370
 msgid "{trainingsLeft} training sessions left ({0}/{1} used)."
-msgstr ""
+msgstr "{trainingsLeft} sesiones de entrenamiento restantes ({0}/{1} usadas)."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:482
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "{value} days of experience"
-msgstr ""
+msgstr "{value} días de experiencia"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:127
 msgid "{value} km"
@@ -1836,45 +1836,45 @@ msgstr "{value} km"
 
 #: src/components/_economy/employee/employeeStats.tsx:472
 msgid "{value} morale = <0>{signedBonus}</0> {production}."
-msgstr ""
+msgstr "{value} de moral = <0>{signedBonus}</0> de {production}."
 
 #: src/components/_economy/employee/employeeStats.tsx:468
 msgid "{value} morale = <0>no</0> {production} change."
-msgstr ""
+msgstr "{value} de moral = <0>sin</0> cambios en {production}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:716
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:720
 msgid "{value} received"
-msgstr ""
+msgstr "{value} recibido"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:122
 msgid "{value} training potential left"
-msgstr ""
+msgstr "{value} potencial de entrenamiento restante"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:142
 #: src/components/_economy/employee/RecruitModal.tsx:266
 msgid "{wage} / day"
-msgstr "{wage} / dia"
+msgstr "{wage} / día"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:529
 msgid "{who} leaves the company: {value}"
-msgstr ""
+msgstr "{who} abandona la empresa: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:737
 msgid "{who} left: {value}"
-msgstr ""
+msgstr "{who} se fue: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:653
 msgid "{who}: {value}"
-msgstr ""
+msgstr "{who}: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:401
 msgid "{who}: {value} (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} (usa Potencial)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:709
 msgid "{who}: {value} days of experience"
-msgstr ""
+msgstr "{who}: {value} días de experiencia"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
@@ -1883,19 +1883,19 @@ msgstr ""
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:627
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:636
 msgid "{who}: {value} for {0}"
-msgstr ""
+msgstr "{who}: {value} durante {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:386
 msgid "{who}: {value} to a random stat"
-msgstr ""
+msgstr "{who}: {value} a un atributo aleatorio"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:394
 msgid "{who}: {value} to a random stat (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} a un atributo aleatorio (usa Potencial)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:409
 msgid "{who}: {value} training potential"
-msgstr ""
+msgstr "{who}: {value} potencial de entrenamiento"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
