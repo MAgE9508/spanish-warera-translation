@@ -1571,7 +1571,7 @@ msgstr "{gender, select, male {Kevin mit ihm gießen} female {Kevin mit ihr gie�
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:611
 msgid "{gender, select, male {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. He is eyeing it.} female {While clearing the storeroom, {name} found an old toolbox nobody remembers buying. She is eyeing it.} other {While clearing the storeroom, {name} found an old toolbox nobody remembers buying, and is eyeing it.}}"
-msgstr "{gender, select, male {Beim Ausräumen des Lagerraums fand {name} einen alten Werkzeugkasten, an dessen Kauf sich niemand erinnert. Er hat ihn im Auge.} female {Beim Ausräumen des Lagerraums fand {name} einen alten Werkzeugkasten, an dessen Kauf sich niemand erinnert. Sie hat ihn im Auge.} other {Beim Ausräumen des Lagerraums fand {name} einen alten Werkzeugkasten, an dessen Kauf sich niemand erinnert. Sie haben ihn im Auge.}}"
+msgstr "{gender, select, male {Beim Ausräumen des Lagerraums fand {name} eine alte Werkzeugkiste, an dessen Kauf sich niemand erinnert. Er hat ihn im Auge.} female {Beim Ausräumen des Lagerraums fand {name} eine alte Werkzeugkiste, an dessen Kauf sich niemand erinnert. Sie hat ihn im Auge.} other {Beim Ausräumen des Lagerraums fand {name} eine alte Werkzeugkiste, an dessen Kauf sich niemand erinnert. Sie haben ihn im Auge.}}"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1649
 msgid "{gender, select, male {You come back with every trick they have. {name} is impressed.} female {You come back with every trick they have. {name} is impressed.} other {You come back with every trick they have. {name} is impressed.}}"
@@ -2674,7 +2674,7 @@ msgstr "<0>{0}</0> pro ausländischer Staatsangehörigkeit unter den Kollegen, b
 #. placeholder {0}: 1
 #: src/components/_user/user/UserSkills.tsx:217
 msgid "<0>{0}</0> prestige point to spend on a skill."
-msgstr "<0>{0}</0> Prestigepunkt, der für eine Fertigkeit ausgegeben werden kann"
+msgstr "<0>{0}</0> Prestigepunkt, der für eine Fertigkeit ausgegeben werden kann."
 
 #. placeholder {0}: data.refund
 #: src/components/_user/notification/notification.frontConfig.tsx:1817
@@ -3369,7 +3369,7 @@ msgstr "5. Boosting und Ausnutzung"
 
 #: src/components/_common/GameRules.tsx:307
 msgid "5. Prohibited content will be removed, and offenders will be muted and/or banned for increasing periods of time, depending on the level and/or frequency of abuse. Highly problematic individuals with a heavy history of abuse will be permanently muted or banned."
-msgstr "5. Verbotene Inhalte werden entfernt. Verstöße führen je nach Schwere und/oder Häufigkeit zu Mutes und/oder Bans mit steigender Dauer. Stark problematische Personen mit langer Missbrauchshistorie werden dauerhaft gemutet oder gebannt."
+msgstr "5. Verbotene Inhalte werden entfernt. Verstöße führen je nach Schwere und/oder Häufigkeit zu Mutes und/oder Banns mit steigender Dauer. Stark problematische Personen mit langer Missbrauchshistorie werden dauerhaft gemutet oder gebannt."
 
 #: src/components/_user/user/militaryRankings.frontConfig.tsx:153
 msgid "5★ General"
@@ -4256,7 +4256,7 @@ msgstr "Ambossbrecher"
 
 #: src/components/_common/GameRules.tsx:105
 msgid "Any attempts to bypass these rules can result in the removal of sharing status, fines and temporary or permanent bans."
-msgstr "Jeder Versuch, diese Regeln zu umgehen, kann zum Entzug des Sharing-Status, zu Geldstrafen sowie zu temporären oder permanenten Bans führen."
+msgstr "Jeder Versuch, diese Regeln zu umgehen, kann zum Entzug des Sharing-Status, zu Geldstrafen sowie zu temporären oder permanenten Banns führen."
 
 #: src/components/_economy/employee/employeeTags.tsx:187
 msgid "Anywhere between -{spreadPercent}% and +{spreadPercent}%."
@@ -4363,7 +4363,7 @@ msgstr "Bist du sicher, dass du dieses Mitglied zum Kommandeur befördern möcht
 
 #: src/pages/market/index.tsx:189
 msgid "Are you sure you want to remove all buy orders?"
-msgstr "Bist du sicher, dass Sie alle Kaufaufträge entfernen wollen?"
+msgstr "Bist du sicher, dass du alle Kaufaufträge entfernen willst?"
 
 #: src/pages/market/index.tsx:252
 msgid "Are you sure you want to remove all sell orders?"
@@ -6999,7 +6999,7 @@ msgstr "Jedes Level gibt deinen Mitarbeitern <0>{perPoint}</0> Produktion, +{eve
 
 #: src/components/_economy/employee/TrainingDrawOdds.tsx:181
 msgid "Each level of your Management moves {MOVED_PER_LEVEL}% of the draws from Common to the rarer cards."
-msgstr "Jedes Level deines Managements verschiebt {MOVED_PER_LEVEL}% der Ziehung von gewöhnlichen bis selteneren Karten."
+msgstr "Jedes Level deines Managements verschiebt {MOVED_PER_LEVEL}% der Ziehung von gewöhnlichen zu selteneren Karten."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:268
 msgid "Each level opens something new."
@@ -10727,7 +10727,7 @@ msgstr "Verschiebt eine Eigenschaft eine Stufe auf ihrer Entwicklungsskala nach 
 
 #: src/components/_layout/loadingTips.tsx:399
 msgid "Moving an employee to another of your companies is free."
-msgstr "Das Versetzen eines Mitarbeiters in eine andere deiner Firmen ist kostenlos"
+msgstr "Das Versetzen eines Mitarbeiters in eine andere deiner Firmen ist kostenlos."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:590
 msgid "Moving costs <0>Stamina</0>, then Oil."
@@ -11529,7 +11529,7 @@ msgstr "Einen {title} nominieren"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:93
 msgid "Nominate a citizen of a member country as the alliance leader."
-msgstr "Nominiere einen Bürger eines Mitgliedslandes als den Allianz-Anführer"
+msgstr "Nominiere einen Bürger eines Mitgliedslandes als den Allianz-Anführer."
 
 #: src/components/_political/alliance/alliance.frontConfig.tsx:17
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:91
@@ -12509,7 +12509,7 @@ msgstr "Politische Anträge"
 
 #: src/components/_common/GameRules.tsx:210
 msgid "Political Take Overs (PTOs) are permitted, but misusing it to extract a country's resources for personal/another country's gain, to damage the country or to intentionally distort market conditions is a punishable offense, which will include fines, bans, and removal from government roles. This goes for Military Units as well."
-msgstr "Political Take Overs (PTOs) sind erlaubt. Sie zu missbrauchen, um Ressourcen eines Landes zum eigenen Vorteil oder zum Vorteil eines anderen Landes abzuziehen, dem Land zu schaden oder Marktbedingungen absichtlich zu verzerren, ist jedoch strafbar und kann Geldstrafen, Bans und die Entfernung aus Regierungsämtern nach sich ziehen. Dasselbe gilt für Militäreinheiten."
+msgstr "Political Take Overs (PTOs) sind erlaubt. Sie zu missbrauchen, um Ressourcen eines Landes zum eigenen Vorteil oder zum Vorteil eines anderen Landes abzuziehen, dem Land zu schaden oder Marktbedingungen absichtlich zu verzerren, ist jedoch strafbar und kann Geldstrafen, Banns und die Entfernung aus Regierungsämtern nach sich ziehen. Dasselbe gilt für Militäreinheiten."
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:58
 msgid "Politics"
@@ -13450,7 +13450,7 @@ msgstr "<0/> aus dem Parteirat entfernen"
 
 #: src/components/_political/allianceLaw/allianceLaw.frontConfig.tsx:66
 msgid "Remove a member country from the alliance."
-msgstr "Entferne ein Mitgliedsland aus der Allianz"
+msgstr "Entferne ein Mitgliedsland aus der Allianz."
 
 #: src/components/_political/partyMotion/partyMotion.frontConfig.tsx:31
 msgid "Remove a member from the party council"
@@ -15317,7 +15317,7 @@ msgstr "Der Vertrag wurde zurückgesetzt. <0>{0}</0> gingen zurück an <1/>."
 
 #: src/components/_political/law/LawCostExplanation.tsx:32
 msgid "The cost is the law's base cost scaled by your country's average development."
-msgstr "Die Kosten entsprechen den im Gesetz festgelegten Grundkosten, skaliert mit der durchschnittlichen Entwicklung des Landes"
+msgstr "Die Kosten entsprechen den im Gesetz festgelegten Grundkosten, skaliert mit der durchschnittlichen Entwicklung des Landes."
 
 #: src/components/_economy/strategicResource/StrategicResource.tsx:34
 msgid "The country holding this region earns, every day, money equal to the core <0>Development</0> of the country it originally belonged to."
@@ -16483,7 +16483,7 @@ msgstr "Durch Training können sie neue Eigenschaften lernen."
 
 #: src/components/_economy/employee/EmployeeTraitsModal.tsx:149
 msgid "Training cards"
-msgstr "Ausbildungskarten"
+msgstr "Trainingskarten"
 
 #: src/components/_economy/employee/TrainingDraftModal.tsx:424
 msgid "Training complete."
@@ -18141,7 +18141,7 @@ msgstr "Dein Land fokussiert bereits <0/>. Ein neuer Fokus hebt den bereits vorh
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:277
 msgid "Your country has its own Discord. Join your fellow citizens there."
-msgstr "Dein Land hat einen eigenen Discordserver. Tritt deinen Landsleuten dort bei."
+msgstr "Dein Land hat einen eigenen Discord-Server. Tritt deinen Landsleuten dort bei."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
