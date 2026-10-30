@@ -1601,115 +1601,115 @@ msgstr "{gender, select, male {Le dijiste a {name} que había hecho un buen trab
 #. placeholder {5}: ts.concrete
 #: src/components/_layout/loadingTips.tsx:339
 msgid "{grainPerBread} <0>{0}</0> make one <1>{1}</1>, {ironPerSteel} <2>{2}</2> one <3>{3}</3> and {limestonePerConcrete} <4>{4}</4> one <5>{5}</5>."
-msgstr ""
+msgstr "{grainPerBread} <0>{0}</0> hacen un <1>{1}</1>, {ironPerSteel} <2>{2}</2> hacen un <3>{3}</3> y {limestonePerConcrete} <4>{4}</4> hacen un <5>{5}</5>."
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:325
 msgid "{homeRegionsAway, plural, one {# region away} other {# regions away}}"
-msgstr ""
+msgstr "{homeRegionsAway, plural, one {# región de distancia} other {# regiones de distancia}}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:62
 msgid "{hours, plural, one {# hour} other {# hours}}"
-msgstr ""
+msgstr "{hours, plural, one {# hora} other {# horas}}"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:113
 msgid "{input} days in the company"
-msgstr ""
+msgstr "{input} días en la empresa"
 
 #: src/components/_economy/itemOffer/itemOffer.hooks.ts:25
 msgid "{itemCount, plural, one {Item put on sale} other {Items put on sale}}"
-msgstr ""
+msgstr "{itemCount, plural, one {Objeto puesto a la venta} other {Objetos puestos a la venta}}"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:530
 msgid "{lead} and others are waiting for your decision."
-msgstr ""
+msgstr "{lead} y otros están esperando tu decisión."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:532
 msgid "{lead} is waiting for your decision."
-msgstr ""
+msgstr "{lead} está esperando tu decisión."
 
 #: src/components/_economy/manager/CompanyManagerSlot.tsx:441
 msgid "{managerTax}% manager tax is withheld from this pay when the manager collects it, for the country the company sits in."
-msgstr ""
+msgstr "Se retiene un {managerTax}% de impuesto de gestión de este sueldo cuando el mánager lo cobra, correspondiente al país donde se encuentra la empresa."
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:162
 msgid "{managerTax}% manager tax is withheld when you collect your pay in this country."
-msgstr ""
+msgstr "Se retiene un {managerTax}% de impuesto de gestión cuando cobras tu sueldo en este país."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3828
 msgid "{name} accuses {partnerName} of eating a labeled lunch. The note on the fridge gets more threatening every day."
-msgstr ""
+msgstr "{name} acusa a {partnerName} de comerse un almuerzo con nombre. La nota en el refrigerador se vuelve más amenazante cada día."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:858
 msgid "{name} and {partnerName} are inseparable now."
-msgstr ""
+msgstr "{name} y {partnerName} ahora son inseparables."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1922
 msgid "{name} and {partnerName} are officially together, and it is the real thing."
-msgstr ""
+msgstr "{name} y {partnerName} están oficialmente juntos, y es algo serio."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1920
 msgid "{name} and {partnerName} are officially together. The whole workshop pretends to be surprised."
-msgstr ""
+msgstr "{name} y {partnerName} están oficialmente juntos. Todo el taller finge estar sorprendido."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:856
 msgid "{name} and {partnerName} are old friends now."
-msgstr ""
+msgstr "{name} y {partnerName} ahora son viejos amigos."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1857
 msgid "{name} and {partnerName} blame each other for the ban. It is personal now."
-msgstr ""
+msgstr "{name} y {partnerName} se culpan mutuamente por la prohibición. Ahora es personal."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:874
 msgid "{name} and {partnerName} came to blows over who moved whose tools. Everyone is waiting to see what you do."
-msgstr ""
+msgstr "{name} y {partnerName} se pelearon por quién movió las herramientas de quién. Todo el mundo espera a ver qué haces."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3743
 msgid "{name} and {partnerName} each think the other installed it. It is war now."
-msgstr ""
+msgstr "Tanto {name} como {partnerName} creen que fue el otro quien lo ha instalado. Ahora es la guerra."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3741
 msgid "{name} and {partnerName} find out. Neither is speaking to you."
-msgstr ""
+msgstr "{name} y {partnerName} lo averiguan. Ninguno de los dos te dirige la palabra."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2000
 msgid "{name} and {partnerName} had their first fight. It was about the inventory. The whole workshop is taking sides."
-msgstr ""
+msgstr "{name} y {partnerName} han tenido su primera pelea. Fue por el inventario. Todo el taller está eligiendo bando."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1907
 msgid "{name} and {partnerName} have been checking the inventory together a lot. The inventory has never been more checked."
-msgstr ""
+msgstr "{name} y {partnerName} pasan mucho tiempo revisando el inventario juntos. El inventario nunca había estado tan revisado."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3760
 msgid "{name} and {partnerName} showed up with the exact same haircut. Neither will speak first."
-msgstr ""
+msgstr "{name} y {partnerName} llegaron con exactamente el mismo corte de pelo. Ninguno de los dos hablará primero."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1883
 msgid "{name} has added a moat. {partnerName} is not welcome."
-msgstr ""
+msgstr "{name} ha añadido un foso. {partnerName} no es bienvenido."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1838
 msgid "{name} is vindicated. {partnerName} is not."
-msgstr ""
+msgstr "A {name} se le ha dado la razón. A {partnerName} no."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1832
 msgid "{name} says soup is a drink. {partnerName} says it is food. They have not spoken in three days."
-msgstr ""
+msgstr "{name} dice que la sopa es una bebida. {partnerName} dice que es comida. Llevan tres días sin hablarse."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3719
 msgid "{name} wants the thermostat at 18 degrees, {partnerName} at 26. Half the workshop wears coats, the other half shorts."
-msgstr ""
+msgstr "{name} quiere el termostato a 18 grados, {partnerName} a 26. La mitad del taller usa abrigos, la otra mitad pantalones cortos."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3775
 msgid "{name} wears the hat proudly. {partnerName} wanted the hat."
-msgstr ""
+msgstr "{name} lleva el sombrero con orgullo. {partnerName} quería el sombrero."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:606
 msgid "{named} and {counted}"
-msgstr ""
+msgstr "{named} y {counted}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventInbox.tsx:123
 msgid "{names}: decided while you were away"
-msgstr ""
+msgstr "{names}: decidido mientras estabas ausente"
 
 #: src/components/_user/user/Level.tsx:137
 msgid "{nextLevelSkillPoints} Skill Points"
@@ -1717,39 +1717,39 @@ msgstr "{nextLevelSkillPoints} Puntos de habilidad"
 
 #: src/components/_economy/employee/employeeStats.tsx:354
 msgid "{otherPct} on other checks"
-msgstr ""
+msgstr "{otherPct} en otras tiradas"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1890
 msgid "{partnerName} backs off. The fort stands."
-msgstr ""
+msgstr "{partnerName} se retira. El fuerte resiste."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1874
 msgid "{partnerName} has decided to become friends with {name}. {name} has responded by building a wall of crates."
-msgstr ""
+msgstr "{partnerName} ha decidido hacerse amigo de {name}. {name} ha respondido construyendo una muralla de cajas."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3841
 msgid "{partnerName} is cleared. {name} now guards the fridge alone."
-msgstr ""
+msgstr "{partnerName} ha quedado libre de sospecha. Ahora {name} vigila el refrigerador en solitario."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3834
 msgid "{partnerName} is officially the lunch thief. {name} eats in peace."
-msgstr ""
+msgstr "{partnerName} es oficialmente el ladrón de almuerzos. {name} come en paz."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1845
 msgid "{partnerName} is vindicated. {name} is not."
-msgstr ""
+msgstr "A {partnerName} se le ha dado la razón. A {name} no."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:914
 msgid "{partnerName} learns fast, and wants to learn more."
-msgstr ""
+msgstr "{partnerName} aprende rápido y quiere aprender más."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:912
 msgid "{partnerName} learns fast."
-msgstr ""
+msgstr "{partnerName} aprende rápido."
 
 #: src/components/_user/premium/UserHeaderFakeContent.tsx:155
 msgid "{premiumMonthsCount, plural, one {# month} other {# months}}"
-msgstr ""
+msgstr "{premiumMonthsCount, plural, one {# mes} other {# meses}}"
 
 #: src/components/_economy/employee/EmployeeTraitArg.tsx:115
 msgid "{production} alongside {partner}"
@@ -1762,7 +1762,7 @@ msgstr "{production} y {mood} mientras produce {good}"
 #: src/components/_layout/LayoutMapUserMenu.tsx:280
 #: src/components/_political/map/MapMenu.tsx:194
 msgid "{quantity, plural, =1 {Wooden case collected!} one {# wooden case collected!} other {# wooden cases collected!}}"
-msgstr ""
+msgstr "{quantity, plural, =1 {¡Has recogido una caja de madera!} one {¡Has recogido # caja de madera!} other {¡Has recogido # cajas de madera!}}"
 
 #: src/components/_economy/inventory/DismantleModal.tsx:208
 msgid "{rareCount, plural, one {# of them is rare or better} other {# of them are rare or better}}"
@@ -1770,11 +1770,11 @@ msgstr "{rareCount, plural, one {# de ellos es raro o de mayor valor} other {# d
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:702
 msgid "{raw} of the company's good, {product} if it is a product"
-msgstr ""
+msgstr "{raw} de la mercancía de la empresa, {product} si se trata de un producto"
 
 #: src/components/_political/map/MapMenu.tsx:752
 msgid "{regionLootCount, plural, =1 {Collect the wooden case lying on this region} one {Collect the # wooden case lying on this region} other {Collect the # wooden cases lying on this region}}"
-msgstr ""
+msgstr "{regionLootCount, plural, =1 {Recoger la caja de madera que está en esta región} one {Recoger la # caja de madera que está en esta región} other {Recoger las # cajas de madera que están en esta región}}"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:370
 #: src/components/_political/map/MapMenu.tsx:692
@@ -1812,23 +1812,23 @@ msgstr "{selectedCount} seleccionados"
 
 #: src/components/_social/poll/PollCard.tsx:221
 msgid "{timeLeft} left"
-msgstr ""
+msgstr "Quedan {timeLeft}"
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:275
 #: src/components/_economy/employee/WorkforceSummary.tsx:430
 msgid "{trainable} to train"
-msgstr ""
+msgstr "{trainable} por entrenar"
 
 #. placeholder {0}: employee.potential
 #. placeholder {1}: employee.potentialMax
 #: src/components/_economy/employee/EmployeeResumeRow.tsx:370
 msgid "{trainingsLeft} training sessions left ({0}/{1} used)."
-msgstr ""
+msgstr "{trainingsLeft} sesiones de entrenamiento restantes ({0}/{1} usadas)."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:482
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:118
 msgid "{value} days of experience"
-msgstr ""
+msgstr "{value} días de experiencia"
 
 #: src/components/_layout/LayoutMapUserMenu.tsx:127
 msgid "{value} km"
@@ -1836,45 +1836,45 @@ msgstr "{value} km"
 
 #: src/components/_economy/employee/employeeStats.tsx:472
 msgid "{value} morale = <0>{signedBonus}</0> {production}."
-msgstr ""
+msgstr "{value} de moral = <0>{signedBonus}</0> de {production}."
 
 #: src/components/_economy/employee/employeeStats.tsx:468
 msgid "{value} morale = <0>no</0> {production} change."
-msgstr ""
+msgstr "{value} de moral = <0>sin</0> cambios en {production}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:716
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:720
 msgid "{value} received"
-msgstr ""
+msgstr "{value} recibido"
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:122
 msgid "{value} training potential left"
-msgstr ""
+msgstr "{value} potencial de entrenamiento restante"
 
 #: src/components/_economy/employee/EmployeeTooltip.tsx:142
 #: src/components/_economy/employee/RecruitModal.tsx:266
 msgid "{wage} / day"
-msgstr "{wage} / dia"
+msgstr "{wage} / día"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:529
 msgid "{who} leaves the company: {value}"
-msgstr ""
+msgstr "{who} abandona la empresa: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:737
 msgid "{who} left: {value}"
-msgstr ""
+msgstr "{who} se fue: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:653
 msgid "{who}: {value}"
-msgstr ""
+msgstr "{who}: {value}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:401
 msgid "{who}: {value} (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} (usa Potencial)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:709
 msgid "{who}: {value} days of experience"
-msgstr ""
+msgstr "{who}: {value} días de experiencia"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
@@ -1883,19 +1883,19 @@ msgstr ""
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:627
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:636
 msgid "{who}: {value} for {0}"
-msgstr ""
+msgstr "{who}: {value} durante {0}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:386
 msgid "{who}: {value} to a random stat"
-msgstr ""
+msgstr "{who}: {value} a un atributo aleatorio"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:394
 msgid "{who}: {value} to a random stat (uses Potential)"
-msgstr ""
+msgstr "{who}: {value} a un atributo aleatorio (usa Potencial)"
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:409
 msgid "{who}: {value} training potential"
-msgstr ""
+msgstr "{who}: {value} potencial de entrenamiento"
 
 #. placeholder {0}: duration(effect.hours)
 #. placeholder {0}: duration(hoursGiven(event.resolvedAt, applied.until))
