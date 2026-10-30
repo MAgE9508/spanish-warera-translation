@@ -6698,7 +6698,7 @@ msgstr "Vorkommen-Ressourcen"
 
 #: src/components/_economy/manager/ManagerOfferFormModal.tsx:182
 msgid "Describe the role, what you expect, what you offer..."
-msgstr "Beschreibe die Rolle, deine Erwartungen und dein Angebot …"
+msgstr "Beschreibe die Rolle, deine Erwartungen und dein Angebot..."
 
 #: src/components/_political/party/PartyDescriptionModal.tsx:62
 #: src/components/_political/party/PartyFormModal.tsx:101
@@ -9834,7 +9834,7 @@ msgstr "Lade {status}..."
 
 #: src/components/_social/poll/PollCard.tsx:165
 msgid "Loading poll..."
-msgstr "Umfrage wird geladen …"
+msgstr "Umfrage wird geladen..."
 
 #: src/components/_social/poll/PollVotersModal.tsx:40
 #: src/components/_user/apiToken/ApiTokenList.tsx:162
@@ -12935,7 +12935,7 @@ msgstr "Violetter Stab"
 
 #: src/components/_political/region/SetResistanceFocusModal.tsx:134
 msgid "Push the resistance here before they dig in..."
-msgstr "Verstärke den Widerstand hier, bevor sie sich verschanzen …"
+msgstr "Verstärke den Widerstand hier, bevor sie sich verschanzen..."
 
 #: src/components/_political/region/RegionResistance.tsx:218
 msgid "Push the resistance here first."
@@ -18094,7 +18094,7 @@ msgstr "Deine Vorfahren sind stolz"
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:29
 msgid "Your announcement to the country..."
-msgstr "Deine Ankündigung an das Land ..."
+msgstr "Deine Ankündigung an das Land..."
 
 #: src/components/_social/announcement/AnnouncementFormModal.tsx:30
 msgid "Your announcement to the unit..."
