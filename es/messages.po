@@ -1637,7 +1637,7 @@ msgstr "Se retiene un {managerTax}% de impuesto de gestión cuando cobras tu sue
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3828
 msgid "{name} accuses {partnerName} of eating a labeled lunch. The note on the fridge gets more threatening every day."
-msgstr "{name} acusa a {partnerName} de comerse un almuerzo con nombre. La nota en el refrigerador se vulve más amenazante cada día."
+msgstr "{name} acusa a {partnerName} de comerse un almuerzo con nombre. La nota en el refrigerador se vuelve más amenazante cada día."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:858
 msgid "{name} and {partnerName} are inseparable now."
@@ -1729,7 +1729,7 @@ msgstr "{partnerName} ha decidido hacerse amigo de {name}. {name} ha respondido 
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3841
 msgid "{partnerName} is cleared. {name} now guards the fridge alone."
-msgstr "{partnerName} ya no está. Ahora {name} vigila el refrigerador en solitario."
+msgstr "{partnerName} ha quedado libre de sospecha. Ahora {name} vigila el refrigerador en solitario."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:3834
 msgid "{partnerName} is officially the lunch thief. {name} eats in peace."
@@ -1745,7 +1745,7 @@ msgstr "{partnerName} aprende rápido y quiere aprender más."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:912
 msgid "{partnerName} learns fast."
-msgstr ""{partnerName} aprende rápido."
+msgstr "{partnerName} aprende rápido."
 
 #: src/components/_user/premium/UserHeaderFakeContent.tsx:155
 msgid "{premiumMonthsCount, plural, one {# month} other {# months}}"
