@@ -17644,12 +17644,12 @@ msgstr "Je bent werkloos"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:468
 msgid "You are no longer the manager of <0/>"
-msgstr ""
+msgstr "Je bent niet langer de manager van <0/>"
 
 #. placeholder {0}: data.paidOut
 #: src/components/_user/notification/notification.frontConfig.tsx:459
 msgid "You are no longer the manager of <0/>. Your remaining <1>{0}</1> was collected for you"
-msgstr ""
+msgstr "Je bent niet langer de manager van  <0/>. Je overblijvende <1>{0}</1> werd voor u opgehaald"
 
 #: src/components/_political/partyMotion/PartyMotionList.tsx:44
 msgid "You are not a council member of this party"
@@ -17661,7 +17661,7 @@ msgstr "Je doet niet mee"
 
 #: src/components/_economy/manager/ManagerOfferRow.tsx:95
 msgid "You are paid hourly and can resign after 24h."
-msgstr ""
+msgstr "Je wordt per uur betaald en kunt na 24u opzeggen."
 
 #: src/components/_military/hit/HitButton.tsx:461
 msgid "You are standing in this region, so you can fight here."
@@ -17707,7 +17707,7 @@ msgstr "Je kunt optioneel een campagneartikel aan je kandidatuur koppelen."
 #. placeholder {0}: getTimeAgo(managerLockedUntil, 'fromNow')
 #: src/components/_economy/company/CompanyDropdown.tsx:498
 msgid "You can resign {0}"
-msgstr ""
+msgstr "Je kan ontslag nemen {0}"
 
 #: src/components/_user/user/Level.tsx:113
 msgid "You can upgrade your skills!"
@@ -17725,11 +17725,11 @@ msgstr "Je kunt geen staatsburgerschap aanvragen als je een regerings- of congre
 #: src/components/_economy/employeeEvent/EmployeeEventHistory.tsx:78
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:497
 msgid "You chose: {picked}"
-msgstr ""
+msgstr "Je koos: {picked}"
 
 #: src/components/_economy/employeeEvent/EmployeeEventModal.tsx:493
 msgid "You did not answer in time, so this was decided: {picked}."
-msgstr ""
+msgstr "Je hebt niet op tijd gereageerd, dus is dit besloten:{picked}."
 
 #: src/pages/party/[partyId]/applications.tsx:28
 msgid "You don't have permission to view applications."
@@ -17737,7 +17737,7 @@ msgstr "Je hebt geen toestemming om sollicitaties te bekijken."
 
 #: src/components/_user/user/UserSkills.tsx:200
 msgid "You drop to <0>level {newLevel}</0> and lose <1>{xpPenalty}</1>. Your total XP is kept."
-msgstr ""
+msgstr "Je zakt naar <0>level {newLevel}</0> and verliest <1>{xpPenalty}</1>. Je totale hoeveelheid XP blijft behouden."
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1734
 msgid "You earned gems from a banner sale!"
@@ -17794,19 +17794,19 @@ msgstr "Je hebt <0>{0}</0> gebruikt, het effect begint nu en eindigt op <1>{buff
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:500
 msgid "You have enough Concrete for one."
-msgstr ""
+msgstr "Je hebt genoeg Beton voor één."
 
 #: src/components/_economy/employee/WorkforceSummary.tsx:257
 msgid "You have no employees yet"
-msgstr ""
+msgstr "Je hebt nog geen werknemers"
 
 #: src/components/_economy/employee/MoveShell.tsx:90
 msgid "You have no other company to move them to"
-msgstr ""
+msgstr "Je hebt geen ander bedrijf waar je ze naartoe kunt verplaatsen."
 
 #: src/components/_economy/itemOffer/MyItemOffers.tsx:55
 msgid "You have nothing on sale"
-msgstr ""
+msgstr "Je hebt niets in de aanbieding"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1934
 msgid "You have prestiged! Enjoy your permanent XP bonus and prestige point."
@@ -17828,7 +17828,7 @@ msgstr "Je moet level {0} zijn om de controle over een land te krijgen."
 #. placeholder {0}: gameConfig?.user.takeControlCooldownInDays ?? 0
 #: src/pages/country/[countryId]/index.tsx:108
 msgid "You have to wait {0, plural, one {# day} other {# days}} before taking control of a country again."
-msgstr ""
+msgstr "Je moet {0, plural, one {# dag} other {# dagen}} wachten voordat je opnieuw de controle over een land kunt overnemen."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:124
 msgid "You helped the dev find a bug, ty <3"
@@ -17850,7 +17850,7 @@ msgstr "Je hebt een vriend uitgenodigd of forum posts gespamd. Nadat ze level {0
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1382
 msgid "You lose the election 1 to 0."
-msgstr ""
+msgstr "Je verliest de verkiezing met 1 tegen 0."
 
 #. placeholder {0}: gameConfig.election.candidateMinLevel
 #: src/components/_political/election/Election.tsx:149
@@ -17875,7 +17875,7 @@ msgstr "Je hebt een land nodig om deel te nemen"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:217
 msgid "You need to be level {minLevel} to buy equipment."
-msgstr ""
+msgstr "Je moet level {minLevel} hebben om uitrusting te kunnen kopen."
 
 #: src/components/_economy/itemOffer/CreateItemOffersModal.tsx:180
 msgid "You need to be level {minLevel} to sell equipment"
@@ -17883,7 +17883,7 @@ msgstr "Je moet niveau {minLevel} zijn om uitrusting te verkopen"
 
 #: src/components/_social/poll/PollCard.tsx:229
 msgid "You need to be level {minLevel} to vote."
-msgstr ""
+msgstr "Je moet level {minLevel} hebben om te kunnen stemmen."
 
 #: src/components/_user/UserEquipments.tsx:214
 msgid "You need to equip a weapon first"
@@ -17891,7 +17891,7 @@ msgstr "Je moet jezelf eerst uitrusten met een wapen"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1199
 msgid "You opened {name}'s locker: 212 pencils, 40 left boots and a live chicken."
-msgstr ""
+msgstr "Je opende het kluisje van {name}: 212 potloden, 40 linkerschoenen en een levende kip."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:167
 msgid "You paid the dev's bills <3 (top 3 in monthly supporter gifts ranking)"
@@ -17899,11 +17899,11 @@ msgstr "Je hebt de rekeningen van de ontwikkelaar betaald <3 (top 3 in de maande
 
 #: src/components/_economy/employee/CostPerPp.tsx:67
 msgid "You pay"
-msgstr ""
+msgstr "Je betaalt"
 
 #: src/components/_economy/itemOffer/ItemOfferModal.tsx:169
 msgid "You pay, tax included"
-msgstr ""
+msgstr "Je betaalt, inclusief tax"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1249
 msgid "You premium gift from <0/> has expired! Would you consider subscribing and supporting the game? 👉👈"
@@ -17920,7 +17920,7 @@ msgstr "Je ontvangt"
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:490
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:518
 msgid "You receive {value}"
-msgstr ""
+msgstr "Je ontvangt {value}"
 
 #. placeholder {0}: data.rank
 #: src/components/_user/notification/notification.frontConfig.tsx:1463
@@ -17968,7 +17968,7 @@ msgstr "Je hebt veel geluk"
 
 #: src/components/_political/election/Election.tsx:227
 msgid "You voted for this candidate"
-msgstr ""
+msgstr "Je hebt op deze kandidaat gestemd"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:104
 msgid "You voted in a major election"
@@ -18009,7 +18009,7 @@ msgstr "Je bent genomineerd als vicepremier van je land"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:1655
 msgid "You were recognized at the door. So was the mustache."
-msgstr ""
+msgstr "Je werd bij de deur herkend. De snor ook."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:21
 msgid "You were so close"
@@ -18022,7 +18022,7 @@ msgstr "Je wint geld voor het insigne + {0}% van de insigne-inkomsten van al je 
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:2994
 msgid "You win the regional title, and the prize money. The trophy goes on the machine."
-msgstr ""
+msgstr "Je wint de regionale titel en het prijzengeld. De trofee komt op de machine te staan."
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:188
 msgid "You won a country tournament"
@@ -18070,19 +18070,19 @@ msgstr "Je hebt het maximale level bereikt!"
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:34
 msgid "Your <0>Energy</0> is full. Spend it before it goes to waste."
-msgstr ""
+msgstr "Je <0>energie</0> is vol. Gebruik het voordat het verloren gaat."
 
 #: src/components/_layout/loadingTips.tsx:103
 msgid "Your <0>Energy</0>, <1>Health</1> and <2>Hunger</2> refill by {hourlyRegenPercent}% of their max every hour. A full bar wastes that regen, so spend it first."
-msgstr ""
+msgstr "Je <0>Energie</0>, <1>Gezondheid</1> en <2>Honger</2> vullen elk uur aan met {hourlyRegenPercent}% van hun maximum. Als een balk vol is, gaat die aanvulling verloren; gebruik ze dus eerst."
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:40
 msgid "Your <0>Health</0> is full. You are ready to fight."
-msgstr ""
+msgstr "Je <0>Gezondheid</0> is volledig. Je bent klaar om te vechten."
 
 #: src/components/_layout/LoadingWelcomeCard.tsx:46
 msgid "Your <0>Hunger</0> is full. Eat to get your Health back."
-msgstr ""
+msgstr "Je <0>honger</0> is gestild. Eet om je gezondheid te herstellen."
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:96
 msgid "Your account has been automatically reported for cheating"
