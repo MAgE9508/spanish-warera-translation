@@ -7455,7 +7455,7 @@ msgstr "Tahmini günlük gelir"
 #: src/components/_political/map/MapMenu.tsx:563
 #: src/components/_political/region/RegionHeader.tsx:84
 msgid "Estimated daily income"
-msgstr Tahmini günlük gelir""
+msgstr "Tahmini günlük gelir"
 
 #: src/components/_political/region/IncomeEstimateBreakdown.tsx:41
 msgid "Estimated from current development, rosters, managers and tax rates. Updated hourly."
