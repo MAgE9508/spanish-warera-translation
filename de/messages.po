@@ -35,7 +35,7 @@ msgstr " - Items durch Zusammenführen und Weiterverkauf missbräuchlich verschi
 
 #: src/components/_common/GameRules.tsx:161
 msgid " - Low-wage labor (lower than 0.8x and above 1.2x the normal salary)"
-msgstr " - Niedriglohnarbeit (unter dem 0,8x und über 1,2x des Normallohns)"
+msgstr " - Niedriglohnarbeit (unter dem 0,8-Fachen und über dem 1,2-Fachen des Normallohns)"
 
 #. placeholder {0}: user.data.mute.reason
 #: src/components/_user/user/UserHeader.tsx:465
@@ -2357,7 +2357,7 @@ msgstr "<0/> Priorität endet in <1/>"
 
 #: src/components/_political/law/law.frontConfig.tsx:315
 msgid "<0/> proposed a mutual defensive pact to your country."
-msgstr "<0/> hat Ihrem Land einen gegenseitigen Verteidigungspakt vorgeschlagen."
+msgstr "<0/> hat deinem Land einen gegenseitigen Verteidigungspakt vorgeschlagen."
 
 #: src/components/_political/message/systemMessage.frontConfig.tsx:145
 msgid "<0/> proposed a new alliance law: <1/>"
@@ -2400,11 +2400,11 @@ msgstr "<0/> hat begonnen, stimme für deinen Favoriten"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:1004
 msgid "<0/> subscribed to you on your article <1/>"
-msgstr "<0/> abonnierte dich bei deinem Artikel <1/> "
+msgstr "<0/> abonnierte dich bei deinem Artikel <1/>"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:970
 msgid "<0/> tipped your article <1/>"
-msgstr "<0/> gab dir Trinkgeld für deinen Artikel <1/> "
+msgstr "<0/> gab dir Trinkgeld für deinen Artikel <1/>"
 
 #: src/components/_political/event/event.frontConfig.tsx:202
 msgid "<0/> took control of <1/>"
@@ -2541,7 +2541,7 @@ msgstr "<0>{0}</0> und <1>{1}</1> wenn ein Kollege aus dem Ausland ist"
 #. placeholder {1}: 5
 #: src/components/_economy/employee/employee.frontConfig.tsx:237
 msgid "<0>{0}</0> and <1>{1}</1> when half or more coworkers are compatriots"
-msgstr "<0>{0}</0> und <1>{1}</1> ,wenn die Hälfte oder mehr der Kollegen Landsleute sind"
+msgstr "<0>{0}</0> und <1>{1}</1>, wenn die Hälfte oder mehr der Kollegen Landsleute sind"
 
 #. placeholder {0}: -2
 #. placeholder {1}: -10
@@ -2773,7 +2773,7 @@ msgstr "<0>{percentPerDay}</0> pro Arbeitstag in einem Produkt, bis zu <1>{maxPe
 #. placeholder {0}: fmt2(v / OUTPUT_DIVISOR)
 #: src/components/_economy/employee/employeeStats.tsx:236
 msgid "<0>{v}</0> Production ÷ {OUTPUT_DIVISOR} = <1>{0} points per hour</1>, before bonuses."
-msgstr "<0>{v}</0> Production ÷ {OUTPUT_DIVISOR} = <1>{0} points per hour</1>, before bonuses."
+msgstr "<0>{v}</0> Produktion ÷ {OUTPUT_DIVISOR} = <1>{0} Punkte pro Stunde</1>, vor Boni."
 
 #: src/components/_economy/employee/employeeStats.tsx:405
 msgid "<0>{v}</0> Responsibility = <1>+{happiness}</1> <2>Happiness</2>."
@@ -2834,7 +2834,7 @@ msgstr "<0>Rüstung</0> und <1>Ausweichen</1> haben abnehmende Erträge: jeder P
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:547
 msgid "<0>Armor</0> and <1>Dodge</1>: less <2>Health</2> lost."
-msgstr "<0>Rüstung</0> und <1>Ausweichen</1>: weniger als <2>Health</2> verloren.."
+msgstr "<0>Rüstung</0> und <1>Ausweichen</1>: weniger als <2>Gesundheit</2> verloren."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:541
 msgid "<0>Attack</0>, <1>Precision</1> and <2>Critical chance</2>: more damage."
@@ -2862,7 +2862,7 @@ msgstr "<0>Emotes</0> im Chat"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:417
 msgid "<0>Energy</0> to work, <1>Stamina</1> to travel."
-msgstr "<0>Energie</0> um zu arbeiten, <1>Stamina</1> um zu reisen."
+msgstr "<0>Energie</0> um zu arbeiten, <1>Ausdauer</1>, um zu reisen."
 
 #. placeholder {0}: ts.case2
 #: src/components/_military/damageRanking/BattleLoot.tsx:64
@@ -2887,7 +2887,7 @@ msgstr "<0>Wird durch deine Arbeit, deine Mitarbeiter und die automatisierte Eng
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:817
 msgid "<0>Half</0> Happiness losses"
-msgstr "<0>Halb so hohe</0> Wohlbefindensverluste"
+msgstr "<0>Halb so hohe</0> Zufriedenheitsverluste"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:414
 msgid "<0>Health</0> to fight, <1>Hunger</1> to eat."
@@ -2895,7 +2895,7 @@ msgstr "<0>Gesundheit</0> um zu kämpfen, <1>Hunger</1> um zu essen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:153
 msgid "<0>Luck</0>: finds toolboxes."
-msgstr "<0>Luck</0>: findet Werkzeugkisten."
+msgstr "<0>Glück</0>: findet Werkzeugkisten."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:840
 msgid "<0>Never</0> quits"
@@ -2907,7 +2907,7 @@ msgstr "<0>Präzision</0> Obergrenze bei 100%: jeder Punkt darüber wird umgewan
 
 #: src/components/_layout/loadingTips.tsx:311
 msgid "<0>Production</0> stays in a company until you produce: it then turns into items, using the raw materials in your inventory."
-msgstr "<0>Produktion</0> bleit in der Firma bis du produzierst: es verwandelt sich dann in items indem es die Rohmaterialien in deinem Inventar verwendet."
+msgstr "<0>Produktion</0> bleibt in der Firma, bis du produzierst: Sie verwandelt sich dann in Gegenstände, indem sie die Rohmaterialien in deinem Inventar verwendet."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:145
 msgid "<0>Production</0>: what they make."
@@ -2941,7 +2941,7 @@ msgstr "<0>Dein Konto erfordert eine zusätzliche Verifizierung. Bitte verifizie
 
 #: src/components/_layout/LayoutOptions.tsx:103
 msgid "= consumes more power"
-msgstr " = verbraucht mehr Energie"
+msgstr "= verbraucht mehr Energie"
 
 #: src/components/_social/poll/PollEditorModal.tsx:116
 msgid "1 day"
@@ -3345,7 +3345,7 @@ msgstr "3★ Haftoffizier"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:289
 msgid "30 days or more in the company. Twice as likely for an {anchor} or a {veteran}."
-msgstr "30 Tage oder länger in der Firma. Doppelt so häufig für einen {anchor} oder einen {veteran}"
+msgstr "30 Tage oder länger in der Firma. Doppelt so häufig für einen {anchor} oder einen {veteran}."
 
 #: src/components/_common/GameRules.tsx:134
 msgid "4. Bug Exploits"
@@ -3401,7 +3401,7 @@ msgstr "Ein {climber} oder eine {primaDonna}, nach 7 Tagen in der Firma."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:580
 msgid "A {comic} and a coworker, neither of them with an {oldFriends} or {nemesis} trait yet."
-msgstr "Ein {comic} oder ein Kollege, keiner von beiden hat bisher eine {oldFriends} oder {nemesis} Eigenschaft."
+msgstr "Ein {comic} und ein Kollege, von denen keiner bisher die Eigenschaft {oldFriends} oder {nemesis} hat."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:248
 msgid "A {comic} with at least one coworker."
@@ -3445,7 +3445,7 @@ msgstr "Ein {taxShy} oder ein {statist}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:523
 msgid "A {trainer} with at least one coworker."
-msgstr "Ein {trainer} mit mindestens einem Kollegen"
+msgstr "Ein {trainer} mit mindestens einem Kollegen."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:509
 msgid "A {veteran} with at least one coworker."
@@ -3518,7 +3518,7 @@ msgstr "Die Kapazität des Pausenraums einer Firma entspricht der Anzahl der Mit
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:222
 msgid "A core region of your country: your employees here get +{coreRegionBonusPercent}% production."
-msgstr "Die Kernregion deines Landes: deine Mitarbeiter erhalten hier +{coreRegionBonusPercent}% Produktion. "
+msgstr "Die Kernregion deines Landes: deine Mitarbeiter erhalten hier +{coreRegionBonusPercent}% Produktion."
 
 #: src/components/_economy/employeeEvent/EmployeeEventEffects.tsx:340
 msgid "A coworker"
@@ -3607,7 +3607,7 @@ msgstr "Ein Streit um nichts. {name} und {partnerName} können sich mittlerweile
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:844
 msgid "A friendship blooming"
-msgstr "Eine Freundschaft entwickelt sich "
+msgstr "Eine Freundschaft entwickelt sich"
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:109
 msgid "A full bar turns into items."
@@ -3744,7 +3744,7 @@ msgstr "Ein verlockendes Angebot"
 
 #: src/components/_economy/employee/EmployeeNameTags.tsx:44
 msgid "A training draw is ready."
-msgstr "Eine Trainingsziehung steht bereit"
+msgstr "Eine Trainingsziehung steht bereit."
 
 #: src/components/_economy/employee/EmployeeNameTags.tsx:42
 msgid "A training hand is waiting for your pick."
@@ -4280,7 +4280,7 @@ msgstr "API-Tokens"
 
 #: src/components/_user/apiToken/ApiTokenList.tsx:101
 msgid "API tokens allow external applications to access the API on your behalf. Use the token in the <0>X-API-Key</0> header. Each token has a rate limit of 200 requests per minute."
-msgstr "API-Tokens ermöglichen es externen Anwendungen, in Ihrem Namen auf die API zuzugreifen. Verwenden Sie den Token im <0>X-API-Key</0>-Header. Jeder Token hat ein Ratelimit von 200 Anfragen pro Minute."
+msgstr "API-Tokens ermöglichen es externen Anwendungen, in deinem Namen auf die API zuzugreifen. Verwende den Token im <0>X-API-Key</0>-Header. Jeder Token hat ein Ratelimit von 200 Anfragen pro Minute."
 
 #: src/components/_layout/LayoutOptions.tsx:334
 msgid "App pattern"
@@ -4347,11 +4347,11 @@ msgstr "Bist du sicher, dass du dieses Mitglied entfernen möchtest?"
 
 #: src/pages/country/[countryId]/government.tsx:111
 msgid "Are you sure you want to leave the congress?"
-msgstr "Sind Sie sicher, dass Sie den Kongress verlassen wollen?"
+msgstr "Bist du sicher, dass du den Kongress verlassen willst?"
 
 #: src/pages/country/[countryId]/government.tsx:95
 msgid "Are you sure you want to leave the government?"
-msgstr "Sind Sie sicher, dass Sie die Regierung verlassen wollen?"
+msgstr "Bist du sicher, dass du die Regierung verlassen willst?"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:138
 msgid "Are you sure you want to place this bid?"
@@ -4363,11 +4363,11 @@ msgstr "Bist du sicher, dass du dieses Mitglied zum Kommandeur befördern möcht
 
 #: src/pages/market/index.tsx:189
 msgid "Are you sure you want to remove all buy orders?"
-msgstr "Sind Sie sicher, dass Sie alle Kaufaufträge entfernen wollen?"
+msgstr "Bist du sicher, dass Sie alle Kaufaufträge entfernen wollen?"
 
 #: src/pages/market/index.tsx:252
 msgid "Are you sure you want to remove all sell orders?"
-msgstr "Sind Sie sicher, dass Sie alle Verkaufsaufträge entfernen wollen?"
+msgstr "Bist du sicher, dass du alle Verkaufsaufträge entfernen willst?"
 
 #: src/components/_social/announcement/Announcement.tsx:133
 msgid "Are you sure you want to remove this announcement? Its comments will be deleted too."
@@ -4375,12 +4375,12 @@ msgstr "Möchtest du diese Ankündigung wirklich entfernen? Ihre Kommentare werd
 
 #: src/components/_user/mission/MissionItem.tsx:116
 msgid "Are you sure you want to reroll this mission? Your current progress will be lost."
-msgstr "Sind Sie sicher, dass Sie diese Mission neu auswürfeln wollen? Ihr aktueller Fortschritt geht verloren."
+msgstr "Bist du sicher, dass du diese Mission neu auswürfeln willst? Dein aktueller Fortschritt geht verloren."
 
 #. placeholder {0}: token.name
 #: src/components/_user/apiToken/ApiTokenList.tsx:218
 msgid "Are you sure you want to revoke \"{0}\"? This action cannot be undone."
-msgstr "Sind Sie sicher, dass Sie \"{0}\" widerrufen wollen? Diese Aktion kann nicht rückgängig gemacht werden."
+msgstr "Bist du sicher, dass du \"{0}\" widerrufen willst? Diese Aktion kann nicht rückgängig gemacht werden."
 
 #: src/components/_military/mu/MuMemberList.tsx:162
 msgid "Are you sure you want to transfer ownership to this member? This action cannot be undone."
@@ -5533,7 +5533,7 @@ msgstr "Wähle eine aus. Die übrigen werden verworfen."
 
 #: src/components/_economy/inventory/CraftModal.tsx:375
 msgid "Choosing a specific item costs ×2 steel:"
-msgstr "Auswahl eines spezifischen Ausrüstung kostet ×2 Stahl:"
+msgstr "Die Auswahl eines bestimmten Ausrüstungsteils kostet ×2 Stahl:"
 
 #: src/components/_user/auth/WelcomeModal.tsx:205
 msgid "Citizen identity card"
@@ -6534,7 +6534,7 @@ msgstr "Debuff beendet"
 #: src/components/_user/user/UserHeader.tsx:342
 #: src/components/_user/user/UserTooltip.tsx:147
 msgid "Debuff ends"
-msgstr "Schwächung endet"
+msgstr "Debuff endet"
 
 #: src/components/_user/user/SkillValue.tsx:246
 msgid "Debuffs:"
@@ -7290,7 +7290,7 @@ msgstr "Mitarbeiter (in aktiven Firmen)"
 
 #: src/components/_layout/loadingTips.tsx:382
 msgid "Employees below {happinessQuitThreshold} happiness may quit."
-msgstr "Mitarbeiter mit einem Wohlbefinden unter {happinessQuitThreshold} können kündigen."
+msgstr "Mitarbeiter mit einer Zufriedenheit unter {happinessQuitThreshold} können kündigen."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:165
 msgid "Employees can have traits that change how they work."
@@ -7499,7 +7499,7 @@ msgstr "Glücksprüfungen bei Ereignissen"
 #: src/components/_layout/MoreButtonNav.tsx:91
 #: src/pages/country/[countryId]/index.tsx:262
 msgid "Events"
-msgstr "Events"
+msgstr "Ereignisse"
 
 #: src/components/_user/notification/notification.frontConfig.tsx:551
 msgid "Events about {lead} and others were decided while you were away."
@@ -7791,7 +7791,7 @@ msgstr "Kaution"
 #: src/components/_layout/LayoutRightIcons.tsx:275
 #: src/components/_layout/MoreButtonNav.tsx:83
 msgid "Feed"
-msgstr "Feed"
+msgstr "Füttern"
 
 #: src/components/_military/mercenaryContract/MercenaryAuctionItem.tsx:159
 msgid "Fight for <0/> in <1/>"
@@ -8595,29 +8595,29 @@ msgstr "Zufriedenheit"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:148
 msgid "Happiness {mood} or less, or {burnout} or {wornOut}."
-msgstr "Wohlbefinden {mood} oder niedriger, oder {burnout} oder {wornOut}."
+msgstr "Zufriedenheit {mood} oder niedriger, oder {burnout} oder {wornOut}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:137
 msgid "Happiness {mood} or less, Production {output} or more, or {climber}. Always possible for a {flightRisk}, and twice as likely."
-msgstr "Wohlbefinden höchstens {mood}, Produktion mindestens {output} oder {climber}. Bei einem {flightRisk} immer möglich und doppelt so wahrscheinlich."
+msgstr "Zufriedenheit höchstens {mood}, Produktion mindestens {output} oder {climber}. Bei einem {flightRisk} immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:282
 msgid "Happiness {mood} or more, after 14 days in the company."
-msgstr "Wohlbefinden mindestens {mood}, nach 14 Tagen in der Firma."
+msgstr "Zufriedenheit mindestens {mood}, nach 14 Tagen in der Firma."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:118
 msgid "Happiness {mood} or more, and either 5 days of experience in the company's good or {quickStudy}."
-msgstr "Wohlbefinden mindestens {mood} und entweder fünf Tage Erfahrung mit der Ware der Firma oder {quickStudy}."
+msgstr "Zufriedenheit mindestens {mood} und entweder fünf Tage Erfahrung mit der Ware der Firma oder {quickStudy}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:126
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:459
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:478
 msgid "Happiness {mood} or more."
-msgstr "Wohlbefinden mindestens {mood}."
+msgstr "Zufriedenheit mindestens {mood}."
 
 #: src/components/_economy/employeeEvent/EventOddsFactors.tsx:110
 msgid "Happiness {value}"
-msgstr "Wohlbefinden {value}"
+msgstr "Zufriedenheit {value}"
 
 #: src/components/_user/badgeCollection/badgeCollection.frontConfig.tsx:85
 msgid "Hard Worker"
@@ -8778,19 +8778,19 @@ msgstr "vor {hiredDaysAgo} Tagen eingestellt"
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:314
 msgid "Hired 7 days ago or more, and {greedy}, {climber} or with happiness {mood} or less."
-msgstr "Vor mindestens 7 Tagen eingestellt und {greedy}, {climber} oder Wohlbefinden höchstens {mood}."
+msgstr "Vor mindestens 7 Tagen eingestellt und {greedy}, {climber} oder Zufriedenheit höchstens {mood}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:402
 msgid "Hired 7 days ago or more, with happiness {mood} or less. Always possible for a {flightRisk}, and twice as likely."
-msgstr "Vor mindestens 7 Tagen eingestellt und Wohlbefinden höchstens {mood}. Bei einem {flightRisk} immer möglich und doppelt so wahrscheinlich."
+msgstr "Vor mindestens 7 Tagen eingestellt und Zufriedenheit höchstens {mood}. Bei einem {flightRisk} immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:392
 msgid "Hired 7 days ago or more, with happiness {mood} or less. Always possible for a {greedy}, and twice as likely."
-msgstr "Vor mindestens 7 Tagen eingestellt und Wohlbefinden höchstens {mood}. Bei einem {greedy} immer möglich und doppelt so wahrscheinlich."
+msgstr "Vor mindestens 7 Tagen eingestellt und Zufriedenheit höchstens {mood}. Bei einem {greedy} immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:464
 msgid "Hired 7 days ago or more, with happiness {mood} or more."
-msgstr "Vor mindestens 7 Tagen eingestellt und Wohlbefinden mindestens {mood}."
+msgstr "Vor mindestens 7 Tagen eingestellt und Zufriedenheit mindestens {mood}."
 
 #: src/components/_layout/loadingTips.tsx:373
 msgid "Hiring an employee costs <0>{hireEnergyCost}</0> and no money. New candidates show up every day."
@@ -11128,7 +11128,7 @@ msgstr "Nice"
 
 #: src/components/_economy/inventory/case/cases.frontConfig.tsx:66
 msgid "Nice one"
-msgstr "Guter gemacht"
+msgstr "Gut gemacht"
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:385
 msgid "Night classes"
@@ -11265,7 +11265,7 @@ msgstr "Noch keine Boden-Rangliste."
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:589
 msgid "No Happiness loss when storage is full"
-msgstr "Kein Verlust an Wohlbefinden bei vollem Lager"
+msgstr "Kein Verlust an Zufriedenheit bei vollem Lager"
 
 #: src/components/_economy/inventory/Inventory.tsx:524
 msgid "No helmets"
@@ -11286,7 +11286,7 @@ msgstr "Keine Elemente gefunden"
 
 #: src/components/_user/kits/KitsPopover.tsx:137
 msgid "No kits yet - add one to quick-equip a full loadout."
-msgstr "Keine Ausrüstungs-Sets - Füge eins hinzu um eine komplette Ausrüstung schnell anzulegen."
+msgstr "Keine Ausrüstungs-Sets - füge eins hinzu, um eine komplette Ausrüstung schnell anzulegen."
 
 #: src/components/_political/law/LawList.tsx:66
 msgid "No laws yet"
@@ -11743,7 +11743,7 @@ msgstr "Im Streik"
 
 #: src/components/_economy/employee/employeeStats.tsx:830
 msgid "Once a day their manager picks one employee: +{happinessBoost} <0>Happiness</0> for {durationHours}h. Boosts stack."
-msgstr "Einmal täglich wählt der Manager einen Mitarbeiter aus: +{happinessBoost} <0>Wohlbefinden</0> für {durationHours} Std. Boni sind stapelbar."
+msgstr "Einmal täglich wählt der Manager einen Mitarbeiter aus: +{happinessBoost} <0>Zufriedenheit</0> für {durationHours} Std. Boni sind stapelbar."
 
 #: src/components/_layout/loadingTips.tsx:259
 msgid "Once every {freeTravelHomeCooldownHours}h, travelling back to your home region is free."
@@ -12996,7 +12996,7 @@ msgstr "Kündigen"
 
 #: src/components/_economy/employee/employee.frontConfig.tsx:828
 msgid "Quits below <0>{flightRiskQuitThreshold}</0> happiness instead of {quitThreshold}"
-msgstr "Kündigt bei weniger als <0>{flightRiskQuitThreshold}</0> Wohlbefinden statt bei {quitThreshold}."
+msgstr "Kündigt bei weniger als <0>{flightRiskQuitThreshold}</0> Zufriedenheit statt bei {quitThreshold}."
 
 #: src/components/_user/user/UserEffectSelector.tsx:60
 msgid "Rainbow"
@@ -13056,7 +13056,7 @@ msgstr "Selten. Kann jedem passieren; doppelt so wahrscheinlich, wenn die Region
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:450
 msgid "Rare. Hired 14 days ago or more, with happiness {mood} or more and training potential left."
-msgstr "Selten. Vor mindestens 14 Tagen eingestellt, Wohlbefinden mindestens {mood} und noch Trainingspotenzial vorhanden."
+msgstr "Selten. Vor mindestens 14 Tagen eingestellt, Zufriedenheit mindestens {mood} und noch Trainingspotenzial vorhanden."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:239
 msgid "Rare. Someone hired 7 days ago or more who is {craftsman}, {specialist} or {handy}, or has 15 days of experience in the company's good, if a tool exists for that good."
@@ -15701,7 +15701,7 @@ msgstr "Der Tacker steckt im Wackelpudding. {name} und {partnerName} sind im Kri
 #. placeholder {0}: roundTax(companyCountry.taxes.income)
 #: src/components/_economy/company/CompanyTags.tsx:63
 msgid "The state collects {0}% of this company's employee payroll, and every point of it costs each employee happiness."
-msgstr "Der Staat erhebt {0} % der Mitarbeiterlohnsumme dieser Firma als Steuer, und jeder Prozentpunkt kostet jeden Mitarbeiter Wohlbefinden."
+msgstr "Der Staat erhebt {0} % der Mitarbeiterlohnsumme dieser Firma als Steuer, und jeder Prozentpunkt kostet jeden Mitarbeiter Zufriedenheit."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:198
 msgid "The state collects {taxPercent}% of your employees' wages as employee tax."
@@ -16594,11 +16594,11 @@ msgstr "Zwei Zentimeter daneben. Jetzt ist es schlimmer."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:376
 msgid "Two coworkers hired 7 days ago or more, with happiness {mood} or more and at most 15 years apart, neither of them with a {sweethearts} trait yet, and not each other's {nemesis}."
-msgstr "Zwei Kollegen, die vor mindestens 7 Tagen eingestellt wurden, ein Wohlbefinden von mindestens {mood} haben und höchstens 15 Jahre Altersunterschied aufweisen. Keiner hat bereits die Eigenschaft {sweethearts}, und sie sind nicht gegenseitig {nemesis}."
+msgstr "Zwei Kollegen, die vor mindestens 7 Tagen eingestellt wurden, eine Zufriedenheit von mindestens {mood} haben und höchstens 15 Jahre Altersunterschied aufweisen. Keiner hat bereits die Eigenschaft {sweethearts}, und sie sind nicht gegenseitig {nemesis}."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:202
 msgid "Two coworkers with happiness {mood} or more, neither of them with an {oldFriends} or {nemesis} trait yet. Twice as likely if one is {sociable} or {comic}."
-msgstr "Zwei Kollegen mit Wohlbefinden von mindestens {mood}, von denen keiner bereits {oldFriends} oder {nemesis} hat. Doppelt so wahrscheinlich, wenn einer {sociable} oder {comic} ist."
+msgstr "Zwei Kollegen mit Zufriedenheit von mindestens {mood}, von denen keiner bereits {oldFriends} oder {nemesis} hat. Doppelt so wahrscheinlich, wenn einer {sociable} oder {comic} ist."
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:587
 msgid "Two coworkers, in a company with 3 or more employees at work."
@@ -16615,7 +16615,7 @@ msgstr "Zwei Kollegen, von denen keiner bereits {oldFriends} oder {nemesis} hat.
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:217
 msgid "Two coworkers, when one of them is {bully}, {rival}, {xenophobe} or {envious}, is the other's {nemesis}, or has happiness {mood} or less."
-msgstr "Zwei Kollegen, von denen einer {bully}, {rival}, {xenophobe} oder {envious} ist, der {nemesis} des anderen ist oder ein Wohlbefinden von höchstens {mood} hat."
+msgstr "Zwei Kollegen, von denen einer {bully}, {rival}, {xenophobe} oder {envious} ist, der {nemesis} des anderen ist oder eine Zufriedenheit von höchstens {mood} hat."
 
 #: src/components/_economy/employeeEvent/employeeEvent.frontConfig.tsx:522
 msgid "Two days away, and a much happier face on the way back."
@@ -17511,7 +17511,7 @@ msgstr "Arbeitet im Ausland, ist ein {expat} oder {cosmopolitan} und hat mindest
 
 #: src/components/_economy/employeeEvent/EmployeeEventCatalog.tsx:177
 msgid "Working abroad, with happiness {mood} or less. Always possible abroad for a {homesick}, and twice as likely."
-msgstr "Arbeitet im Ausland und hat höchstens {mood} Wohlbefinden. Bei einem {homesick} im Ausland immer möglich und doppelt so wahrscheinlich."
+msgstr "Arbeitet im Ausland und hat höchstens {mood} Zufriedenheit. Bei einem {homesick} im Ausland immer möglich und doppelt so wahrscheinlich."
 
 #: src/components/_other/tour/tuto.frontConfig.tsx:106
 msgid "Working fills its <0>Production</0> bar."
@@ -18141,7 +18141,7 @@ msgstr "Dein Land fokussiert bereits <0/>. Ein neuer Fokus hebt den bereits vorh
 
 #: src/components/_other/tour/TutorialChapterEndModal.tsx:277
 msgid "Your country has its own Discord. Join your fellow citizens there."
-msgstr "Dein Land hat einen eigenen Discordserver. Trete deinen Landsleuten bei."
+msgstr "Dein Land hat einen eigenen Discordserver. Tritt deinen Landsleuten dort bei."
 
 #: src/components/_economy/company/RecommendedCompanyRegions.tsx:124
 msgid "Your country has no ally with regions."
