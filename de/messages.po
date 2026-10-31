@@ -2737,7 +2737,7 @@ msgstr "<0>{0}</0>, solange niemand mehr produziert als sie"
 #. placeholder {0}: 3
 #: src/components/_economy/employee/employee.frontConfig.tsx:366
 msgid "<0>{0}</0> while somebody out-produces them"
-msgstr "<0>{0}</0> solange niemand mehr produziert als sie"
+msgstr "<0>{0}</0> solange jemand mehr produziert als sie"
 
 #. placeholder {0}: 2
 #: src/components/_economy/employee/employee.frontConfig.tsx:766
